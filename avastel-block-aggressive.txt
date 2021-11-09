@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Sun Nov 07 2021 00:02:41 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 207104
+# Last update: Mon Nov 08 2021 00:02:50 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 214528
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -32,12 +32,16 @@
 27.48.125.0/24;Ms Ortel Communications Ltd
 27.48.126.0/24;Ms Ortel Communications Ltd
 27.48.127.0/24;Ms Ortel Communications Ltd
+27.48.197.0/24;Ms Ortel Communications Ltd
+27.48.198.0/24;Ms Ortel Communications Ltd
 27.48.199.0/24;Ms Ortel Communications Ltd
 27.48.205.0/24;Ms Ortel Communications Ltd
 27.48.207.0/24;Ms Ortel Communications Ltd
+27.48.223.0/24;Ms Ortel Communications Ltd
 27.48.232.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
+27.48.235.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.249.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
@@ -46,25 +50,43 @@
 27.48.253.0/24;Ms Ortel Communications Ltd
 27.48.254.0/24;Ms Ortel Communications Ltd
 27.48.255.0/24;Ms Ortel Communications Ltd
+27.49.2.0/24;Ms Ortel Communications Ltd
 27.49.3.0/24;Ms Ortel Communications Ltd
 27.49.9.0/24;Ms Ortel Communications Ltd
+27.49.12.0/24;Ms Ortel Communications Ltd
+27.49.17.0/24;Ms Ortel Communications Ltd
 27.49.18.0/24;Ms Ortel Communications Ltd
+27.49.23.0/24;Ms Ortel Communications Ltd
+27.49.25.0/24;Ms Ortel Communications Ltd
+27.49.27.0/24;Ms Ortel Communications Ltd
 27.49.30.0/24;Ms Ortel Communications Ltd
+27.49.34.0/24;Ms Ortel Communications Ltd
+27.49.36.0/24;Ms Ortel Communications Ltd
 27.49.41.0/24;Ms Ortel Communications Ltd
+27.49.51.0/24;Ms Ortel Communications Ltd
 27.49.55.0/24;Ms Ortel Communications Ltd
 27.49.57.0/24;Ms Ortel Communications Ltd
+27.49.60.0/24;Ms Ortel Communications Ltd
 27.49.97.0/24;Ms Ortel Communications Ltd
+27.49.98.0/24;Ms Ortel Communications Ltd
 27.49.100.0/24;Ms Ortel Communications Ltd
 27.49.102.0/24;Ms Ortel Communications Ltd
+27.49.103.0/24;Ms Ortel Communications Ltd
 27.49.104.0/24;Ms Ortel Communications Ltd
+27.49.107.0/24;Ms Ortel Communications Ltd
 27.49.111.0/24;Ms Ortel Communications Ltd
 27.49.115.0/24;Ms Ortel Communications Ltd
 27.49.118.0/24;Ms Ortel Communications Ltd
 27.49.120.0/24;Ms Ortel Communications Ltd
+27.49.127.0/24;Ms Ortel Communications Ltd
 27.49.132.0/24;Ms Ortel Communications Ltd
 27.49.134.0/24;Ms Ortel Communications Ltd
 27.49.137.0/24;Ms Ortel Communications Ltd
 27.49.143.0/24;Ms Ortel Communications Ltd
+27.49.144.0/24;Ms Ortel Communications Ltd
+27.49.150.0/24;Ms Ortel Communications Ltd
+27.49.151.0/24;Ms Ortel Communications Ltd
+27.49.154.0/24;Ms Ortel Communications Ltd
 27.49.192.0/24;Ms Ortel Communications Ltd
 27.49.193.0/24;Ms Ortel Communications Ltd
 27.49.194.0/24;Ms Ortel Communications Ltd
@@ -456,8 +478,16 @@
 113.19.157.0/24;Ms Ortel Communications Ltd
 113.19.158.0/24;Ms Ortel Communications Ltd
 113.19.159.0/24;Ms Ortel Communications Ltd
+113.19.160.0/24;Ms Ortel Communications Ltd
+113.19.161.0/24;Ms Ortel Communications Ltd
+113.19.164.0/24;Ms Ortel Communications Ltd
+113.19.168.0/24;Ms Ortel Communications Ltd
+113.19.171.0/24;Ms Ortel Communications Ltd
 113.19.175.0/24;Ms Ortel Communications Ltd
+113.19.178.0/24;Ms Ortel Communications Ltd
 113.19.181.0/24;Ms Ortel Communications Ltd
+113.19.189.0/24;Ms Ortel Communications Ltd
+113.19.190.0/24;Ms Ortel Communications Ltd
 125.164.16.0/24;PT Telekomunikasi Indonesia
 125.164.17.0/24;PT Telekomunikasi Indonesia
 125.164.18.0/24;PT Telekomunikasi Indonesia
@@ -746,7 +776,6 @@
 204.52.108.0/24;CLOUD-SOUTH
 204.52.109.0/24;CLOUD-SOUTH
 204.52.111.0/24;CLOUD-SOUTH
-205.169.39.0/24;CENTURYLINK-US-LEGACY-QWEST
 212.60.20.0/24;Silverstar Invest Limited
 212.60.21.0/24;Silverstar Invest Limited
 212.115.51.0/24;Global Layer B.V.
