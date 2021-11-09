@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Mon Nov 08 2021 00:02:50 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 214528
+# Last update: Tue Nov 09 2021 00:02:28 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 223488
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -32,16 +32,27 @@
 27.48.125.0/24;Ms Ortel Communications Ltd
 27.48.126.0/24;Ms Ortel Communications Ltd
 27.48.127.0/24;Ms Ortel Communications Ltd
+27.48.196.0/24;Ms Ortel Communications Ltd
 27.48.197.0/24;Ms Ortel Communications Ltd
 27.48.198.0/24;Ms Ortel Communications Ltd
 27.48.199.0/24;Ms Ortel Communications Ltd
+27.48.201.0/24;Ms Ortel Communications Ltd
+27.48.202.0/24;Ms Ortel Communications Ltd
 27.48.205.0/24;Ms Ortel Communications Ltd
 27.48.207.0/24;Ms Ortel Communications Ltd
+27.48.213.0/24;Ms Ortel Communications Ltd
+27.48.220.0/24;Ms Ortel Communications Ltd
+27.48.221.0/24;Ms Ortel Communications Ltd
 27.48.223.0/24;Ms Ortel Communications Ltd
 27.48.232.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
 27.48.235.0/24;Ms Ortel Communications Ltd
+27.48.236.0/24;Ms Ortel Communications Ltd
+27.48.239.0/24;Ms Ortel Communications Ltd
+27.48.240.0/24;Ms Ortel Communications Ltd
+27.48.242.0/24;Ms Ortel Communications Ltd
+27.48.244.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.249.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
@@ -52,21 +63,32 @@
 27.48.255.0/24;Ms Ortel Communications Ltd
 27.49.2.0/24;Ms Ortel Communications Ltd
 27.49.3.0/24;Ms Ortel Communications Ltd
+27.49.5.0/24;Ms Ortel Communications Ltd
 27.49.9.0/24;Ms Ortel Communications Ltd
 27.49.12.0/24;Ms Ortel Communications Ltd
 27.49.17.0/24;Ms Ortel Communications Ltd
 27.49.18.0/24;Ms Ortel Communications Ltd
+27.49.20.0/24;Ms Ortel Communications Ltd
 27.49.23.0/24;Ms Ortel Communications Ltd
 27.49.25.0/24;Ms Ortel Communications Ltd
 27.49.27.0/24;Ms Ortel Communications Ltd
+27.49.28.0/24;Ms Ortel Communications Ltd
 27.49.30.0/24;Ms Ortel Communications Ltd
 27.49.34.0/24;Ms Ortel Communications Ltd
 27.49.36.0/24;Ms Ortel Communications Ltd
 27.49.41.0/24;Ms Ortel Communications Ltd
+27.49.43.0/24;Ms Ortel Communications Ltd
+27.49.46.0/24;Ms Ortel Communications Ltd
+27.49.49.0/24;Ms Ortel Communications Ltd
 27.49.51.0/24;Ms Ortel Communications Ltd
+27.49.52.0/24;Ms Ortel Communications Ltd
+27.49.53.0/24;Ms Ortel Communications Ltd
+27.49.54.0/24;Ms Ortel Communications Ltd
 27.49.55.0/24;Ms Ortel Communications Ltd
+27.49.56.0/24;Ms Ortel Communications Ltd
 27.49.57.0/24;Ms Ortel Communications Ltd
 27.49.60.0/24;Ms Ortel Communications Ltd
+27.49.62.0/24;Ms Ortel Communications Ltd
 27.49.97.0/24;Ms Ortel Communications Ltd
 27.49.98.0/24;Ms Ortel Communications Ltd
 27.49.100.0/24;Ms Ortel Communications Ltd
@@ -79,13 +101,20 @@
 27.49.118.0/24;Ms Ortel Communications Ltd
 27.49.120.0/24;Ms Ortel Communications Ltd
 27.49.127.0/24;Ms Ortel Communications Ltd
+27.49.128.0/24;Ms Ortel Communications Ltd
+27.49.129.0/24;Ms Ortel Communications Ltd
+27.49.131.0/24;Ms Ortel Communications Ltd
 27.49.132.0/24;Ms Ortel Communications Ltd
+27.49.133.0/24;Ms Ortel Communications Ltd
 27.49.134.0/24;Ms Ortel Communications Ltd
 27.49.137.0/24;Ms Ortel Communications Ltd
 27.49.143.0/24;Ms Ortel Communications Ltd
 27.49.144.0/24;Ms Ortel Communications Ltd
+27.49.146.0/24;Ms Ortel Communications Ltd
+27.49.147.0/24;Ms Ortel Communications Ltd
 27.49.150.0/24;Ms Ortel Communications Ltd
 27.49.151.0/24;Ms Ortel Communications Ltd
+27.49.153.0/24;Ms Ortel Communications Ltd
 27.49.154.0/24;Ms Ortel Communications Ltd
 27.49.192.0/24;Ms Ortel Communications Ltd
 27.49.193.0/24;Ms Ortel Communications Ltd
@@ -157,6 +186,7 @@
 36.72.213.0/24;PT Telekomunikasi Indonesia
 36.72.214.0/24;PT Telekomunikasi Indonesia
 36.72.215.0/24;PT Telekomunikasi Indonesia
+36.73.34.0/24;PT Telekomunikasi Indonesia
 37.9.44.0/24;ST-BGP
 37.9.45.0/24;ST-BGP
 37.9.46.0/24;ST-BGP
@@ -419,6 +449,7 @@
 103.56.237.0/24;MEGHBELA BROADBAND
 103.56.238.0/24;MEGHBELA BROADBAND
 103.56.239.0/24;MEGHBELA BROADBAND
+103.144.170.0/24;PT INDONESIA COMNETS PLUS
 103.147.9.0/24;PT. Cemerlang Multimedia
 103.192.60.0/24;MEGHBELA BROADBAND
 103.192.63.0/24;MEGHBELA BROADBAND
@@ -483,9 +514,13 @@
 113.19.164.0/24;Ms Ortel Communications Ltd
 113.19.168.0/24;Ms Ortel Communications Ltd
 113.19.171.0/24;Ms Ortel Communications Ltd
+113.19.174.0/24;Ms Ortel Communications Ltd
 113.19.175.0/24;Ms Ortel Communications Ltd
+113.19.176.0/24;Ms Ortel Communications Ltd
 113.19.178.0/24;Ms Ortel Communications Ltd
+113.19.180.0/24;Ms Ortel Communications Ltd
 113.19.181.0/24;Ms Ortel Communications Ltd
+113.19.187.0/24;Ms Ortel Communications Ltd
 113.19.189.0/24;Ms Ortel Communications Ltd
 113.19.190.0/24;Ms Ortel Communications Ltd
 125.164.16.0/24;PT Telekomunikasi Indonesia

@@ -1,6 +1,6 @@
 # Avastel moderate blocklist
-# Last update: Mon Nov 08 2021 00:02:50 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 194048
+# Last update: Tue Nov 09 2021 00:02:28 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 195328
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -108,6 +108,7 @@
 31.40.253.0/24;COGENT-174
 31.40.254.0/24;COGENT-174
 31.40.255.0/24;COGENT-174
+36.72.214.0/24;PT Telekomunikasi Indonesia
 37.9.44.0/24;ST-BGP
 37.9.45.0/24;ST-BGP
 37.9.46.0/24;ST-BGP
@@ -428,6 +429,7 @@
 113.19.158.0/24;Ms Ortel Communications Ltd
 113.19.159.0/24;Ms Ortel Communications Ltd
 125.164.16.0/24;PT Telekomunikasi Indonesia
+125.164.23.0/24;PT Telekomunikasi Indonesia
 141.98.84.0/24;AS-COLOCROSSING
 141.98.85.0/24;ST-BGP
 141.98.86.0/24;ST-BGP
@@ -514,6 +516,9 @@
 178.171.108.0/24;M247 Ltd
 178.171.109.0/24;M247 Ltd
 180.241.240.0/24;PT Telekomunikasi Indonesia
+180.241.241.0/24;PT Telekomunikasi Indonesia
+180.241.242.0/24;PT Telekomunikasi Indonesia
+180.241.243.0/24;PT Telekomunikasi Indonesia
 184.174.8.0/24;AS-COLOAM
 184.174.10.0/24;AS-COLOAM
 184.174.11.0/24;AS-COLOAM
