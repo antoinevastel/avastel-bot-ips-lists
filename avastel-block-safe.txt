@@ -1,6 +1,6 @@
 # Avastel safe blocklist
-# Last update: Tue Nov 09 2021 00:02:28 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 150272
+# Last update: Wed Nov 10 2021 00:02:41 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 154624
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -16,11 +16,15 @@
 5.183.255.0/24;Global Layer B.V.
 27.48.112.0/24;Ms Ortel Communications Ltd
 27.48.113.0/24;Ms Ortel Communications Ltd
+27.48.114.0/24;Ms Ortel Communications Ltd
 27.48.116.0/24;Ms Ortel Communications Ltd
 27.48.117.0/24;Ms Ortel Communications Ltd
+27.48.119.0/24;Ms Ortel Communications Ltd
 27.48.120.0/24;Ms Ortel Communications Ltd
 27.48.122.0/24;Ms Ortel Communications Ltd
+27.48.123.0/24;Ms Ortel Communications Ltd
 27.48.124.0/24;Ms Ortel Communications Ltd
+27.48.125.0/24;Ms Ortel Communications Ltd
 27.48.127.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
@@ -32,6 +36,7 @@
 27.48.253.0/24;Ms Ortel Communications Ltd
 27.48.254.0/24;Ms Ortel Communications Ltd
 27.48.255.0/24;Ms Ortel Communications Ltd
+27.49.192.0/24;Ms Ortel Communications Ltd
 27.49.193.0/24;Ms Ortel Communications Ltd
 27.49.194.0/24;Ms Ortel Communications Ltd
 27.49.195.0/24;Ms Ortel Communications Ltd
@@ -43,10 +48,12 @@
 27.49.205.0/24;Ms Ortel Communications Ltd
 27.49.206.0/24;Ms Ortel Communications Ltd
 27.49.207.0/24;Ms Ortel Communications Ltd
+27.49.208.0/24;Ms Ortel Communications Ltd
 27.49.209.0/24;Ms Ortel Communications Ltd
 27.49.210.0/24;Ms Ortel Communications Ltd
 27.49.211.0/24;Ms Ortel Communications Ltd
 27.49.212.0/24;Ms Ortel Communications Ltd
+27.49.213.0/24;Ms Ortel Communications Ltd
 27.49.214.0/24;Ms Ortel Communications Ltd
 27.49.215.0/24;Ms Ortel Communications Ltd
 27.49.216.0/24;Ms Ortel Communications Ltd
@@ -55,6 +62,7 @@
 27.49.219.0/24;Ms Ortel Communications Ltd
 27.49.220.0/24;Ms Ortel Communications Ltd
 27.49.222.0/24;Ms Ortel Communications Ltd
+27.49.223.0/24;Ms Ortel Communications Ltd
 27.49.224.0/24;Ms Ortel Communications Ltd
 27.49.225.0/24;Ms Ortel Communications Ltd
 27.49.226.0/24;Ms Ortel Communications Ltd
@@ -64,6 +72,7 @@
 27.49.230.0/24;Ms Ortel Communications Ltd
 27.49.231.0/24;Ms Ortel Communications Ltd
 27.49.242.0/24;Ms Ortel Communications Ltd
+27.49.243.0/24;Ms Ortel Communications Ltd
 27.49.245.0/24;Ms Ortel Communications Ltd
 27.49.247.0/24;Ms Ortel Communications Ltd
 27.49.248.0/24;Ms Ortel Communications Ltd
@@ -102,6 +111,7 @@
 43.251.175.0/24;MEGHBELA BROADBAND
 43.251.176.0/24;MEGHBELA BROADBAND
 43.251.177.0/24;MEGHBELA BROADBAND
+43.251.178.0/24;MEGHBELA BROADBAND
 43.251.179.0/24;MEGHBELA BROADBAND
 45.10.164.0/24;AS-COLOCROSSING
 45.10.165.0/24;AS-COLOCROSSING
@@ -254,6 +264,7 @@
 89.208.182.0/24;AS-COLOAM
 89.208.183.0/24;AS-COLOAM
 91.188.246.0/24;ST-BGP
+91.204.15.0/24;ASN-QUADRANET-GLOBAL
 91.222.236.0/24;UGB Hosting OU
 91.222.239.0/24;UGB Hosting OU
 91.243.191.0/24;UGB Hosting OU
@@ -297,6 +308,7 @@
 103.56.239.0/24;MEGHBELA BROADBAND
 103.192.60.0/24;MEGHBELA BROADBAND
 103.192.63.0/24;MEGHBELA BROADBAND
+103.193.89.0/24;MEGHBELA BROADBAND
 103.193.90.0/24;MEGHBELA BROADBAND
 103.193.91.0/24;MEGHBELA BROADBAND
 103.244.241.0/24;MEGHBELA BROADBAND
@@ -317,14 +329,19 @@
 109.236.54.0/24;DEDIPATH-LLC
 109.236.55.0/24;DEDIPATH-LLC
 113.19.97.0/24;Ms Ortel Communications Ltd
+113.19.99.0/24;Ms Ortel Communications Ltd
+113.19.100.0/24;Ms Ortel Communications Ltd
 113.19.101.0/24;Ms Ortel Communications Ltd
 113.19.103.0/24;Ms Ortel Communications Ltd
 113.19.104.0/24;Ms Ortel Communications Ltd
 113.19.105.0/24;Ms Ortel Communications Ltd
+113.19.107.0/24;Ms Ortel Communications Ltd
 113.19.110.0/24;Ms Ortel Communications Ltd
 113.19.144.0/24;Ms Ortel Communications Ltd
 113.19.145.0/24;Ms Ortel Communications Ltd
+113.19.146.0/24;Ms Ortel Communications Ltd
 113.19.148.0/24;Ms Ortel Communications Ltd
+113.19.149.0/24;Ms Ortel Communications Ltd
 113.19.151.0/24;Ms Ortel Communications Ltd
 113.19.154.0/24;Ms Ortel Communications Ltd
 113.19.155.0/24;Ms Ortel Communications Ltd
