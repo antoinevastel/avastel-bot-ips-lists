@@ -1,6 +1,6 @@
 # Avastel safe blocklist
-# Last update: Thu Nov 11 2021 00:02:42 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 159232
+# Last update: Fri Nov 12 2021 00:02:43 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 161792
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -17,10 +17,13 @@
 27.48.112.0/24;Ms Ortel Communications Ltd
 27.48.113.0/24;Ms Ortel Communications Ltd
 27.48.114.0/24;Ms Ortel Communications Ltd
+27.48.115.0/24;Ms Ortel Communications Ltd
 27.48.116.0/24;Ms Ortel Communications Ltd
 27.48.117.0/24;Ms Ortel Communications Ltd
+27.48.118.0/24;Ms Ortel Communications Ltd
 27.48.119.0/24;Ms Ortel Communications Ltd
 27.48.120.0/24;Ms Ortel Communications Ltd
+27.48.121.0/24;Ms Ortel Communications Ltd
 27.48.122.0/24;Ms Ortel Communications Ltd
 27.48.123.0/24;Ms Ortel Communications Ltd
 27.48.124.0/24;Ms Ortel Communications Ltd
@@ -48,6 +51,8 @@
 27.49.200.0/24;Ms Ortel Communications Ltd
 27.49.201.0/24;Ms Ortel Communications Ltd
 27.49.202.0/24;Ms Ortel Communications Ltd
+27.49.203.0/24;Ms Ortel Communications Ltd
+27.49.204.0/24;Ms Ortel Communications Ltd
 27.49.205.0/24;Ms Ortel Communications Ltd
 27.49.206.0/24;Ms Ortel Communications Ltd
 27.49.207.0/24;Ms Ortel Communications Ltd
@@ -76,6 +81,7 @@
 27.49.230.0/24;Ms Ortel Communications Ltd
 27.49.231.0/24;Ms Ortel Communications Ltd
 27.49.240.0/24;Ms Ortel Communications Ltd
+27.49.241.0/24;Ms Ortel Communications Ltd
 27.49.242.0/24;Ms Ortel Communications Ltd
 27.49.243.0/24;Ms Ortel Communications Ltd
 27.49.244.0/24;Ms Ortel Communications Ltd
@@ -327,6 +333,7 @@
 103.251.80.0/24;MEGHBELA BROADBAND
 103.251.81.0/24;MEGHBELA BROADBAND
 103.251.82.0/24;MEGHBELA BROADBAND
+103.251.83.0/24;MEGHBELA BROADBAND
 104.222.146.0/24;QUICKPACKET
 104.222.150.0/24;QUICKPACKET
 109.94.173.0/24;DEDIPATH-LLC
@@ -348,6 +355,7 @@
 113.19.105.0/24;Ms Ortel Communications Ltd
 113.19.107.0/24;Ms Ortel Communications Ltd
 113.19.108.0/24;Ms Ortel Communications Ltd
+113.19.109.0/24;Ms Ortel Communications Ltd
 113.19.110.0/24;Ms Ortel Communications Ltd
 113.19.111.0/24;Ms Ortel Communications Ltd
 113.19.144.0/24;Ms Ortel Communications Ltd
@@ -613,7 +621,9 @@
 217.145.224.0/24;Global Layer B.V.
 223.29.193.0/24;MEGHBELA BROADBAND
 223.29.194.0/24;MEGHBELA BROADBAND
+223.29.195.0/24;MEGHBELA BROADBAND
 223.29.196.0/24;MEGHBELA BROADBAND
+223.29.197.0/24;MEGHBELA BROADBAND
 223.29.198.0/24;MEGHBELA BROADBAND
 223.29.199.0/24;MEGHBELA BROADBAND
 223.29.200.0/24;MEGHBELA BROADBAND
