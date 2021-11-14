@@ -1,6 +1,6 @@
 # Avastel moderate blocklist
-# Last update: Fri Nov 12 2021 00:02:43 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 197376
+# Last update: Sat Nov 13 2021 00:02:53 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 197632
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -42,6 +42,7 @@
 27.48.253.0/24;Ms Ortel Communications Ltd
 27.48.254.0/24;Ms Ortel Communications Ltd
 27.48.255.0/24;Ms Ortel Communications Ltd
+27.49.57.0/24;Ms Ortel Communications Ltd
 27.49.192.0/24;Ms Ortel Communications Ltd
 27.49.193.0/24;Ms Ortel Communications Ltd
 27.49.194.0/24;Ms Ortel Communications Ltd
