@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Sat Nov 13 2021 00:02:53 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 249600
+# Last update: Sun Nov 14 2021 00:02:47 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 249856
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -91,7 +91,6 @@
 27.49.4.0/24;Ms Ortel Communications Ltd
 27.49.5.0/24;Ms Ortel Communications Ltd
 27.49.6.0/24;Ms Ortel Communications Ltd
-27.49.7.0/24;Ms Ortel Communications Ltd
 27.49.8.0/24;Ms Ortel Communications Ltd
 27.49.9.0/24;Ms Ortel Communications Ltd
 27.49.10.0/24;Ms Ortel Communications Ltd
@@ -186,7 +185,6 @@
 27.49.138.0/24;Ms Ortel Communications Ltd
 27.49.139.0/24;Ms Ortel Communications Ltd
 27.49.140.0/24;Ms Ortel Communications Ltd
-27.49.141.0/24;Ms Ortel Communications Ltd
 27.49.142.0/24;Ms Ortel Communications Ltd
 27.49.143.0/24;Ms Ortel Communications Ltd
 27.49.144.0/24;Ms Ortel Communications Ltd
@@ -270,6 +268,8 @@
 31.40.253.0/24;COGENT-174
 31.40.254.0/24;COGENT-174
 31.40.255.0/24;COGENT-174
+36.68.53.0/24;PT Telekomunikasi Indonesia
+36.68.54.0/24;PT Telekomunikasi Indonesia
 36.72.212.0/24;PT Telekomunikasi Indonesia
 36.72.213.0/24;PT Telekomunikasi Indonesia
 36.72.214.0/24;PT Telekomunikasi Indonesia
@@ -700,6 +700,7 @@
 178.20.213.0/24;Global Layer B.V.
 178.20.214.0/24;Global Layer B.V.
 178.20.215.0/24;Global Layer B.V.
+178.155.4.0/24;MTS PJSC
 178.159.100.0/24;Global Layer B.V.
 178.159.107.0/24;Global Layer B.V.
 178.171.38.0/24;M247 Ltd
