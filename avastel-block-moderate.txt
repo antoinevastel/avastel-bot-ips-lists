@@ -1,6 +1,6 @@
 # Avastel moderate blocklist
-# Last update: Sun Nov 14 2021 00:02:47 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 197888
+# Last update: Mon Nov 15 2021 00:03:03 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 197376
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -501,7 +501,6 @@
 173.211.55.0/24;AS-COLOAM
 173.211.98.0/24;AS-COLOAM
 176.119.141.0/24;Silverstar Invest Limited
-178.20.212.0/24;AS-COLOCROSSING
 178.20.213.0/24;Global Layer B.V.
 178.20.214.0/24;Global Layer B.V.
 178.20.215.0/24;Global Layer B.V.
@@ -664,7 +663,6 @@
 194.93.6.0/24;AS-COLOAM
 194.93.7.0/24;AS-COLOAM
 194.99.24.0/24;Global Layer B.V.
-194.99.25.0/24;AS-COLOCROSSING
 194.99.26.0/24;Global Layer B.V.
 194.104.8.0/24;AS-COLOCROSSING
 194.104.9.0/24;AS-COLOCROSSING
