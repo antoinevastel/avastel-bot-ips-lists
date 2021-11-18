@@ -1,5 +1,5 @@
 # Avastel ultra-safe blocklist
-# Last update: Tue Nov 16 2021 00:02:52 GMT+0000 (Coordinated Universal Time)
+# Last update: Wed Nov 17 2021 00:02:38 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 67072
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
