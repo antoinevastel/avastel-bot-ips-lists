@@ -1,6 +1,6 @@
 # Avastel moderate blocklist
-# Last update: Sat Nov 20 2021 00:02:42 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 102912
+# Last update: Sun Nov 21 2021 00:02:33 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 100352
 
 5.45.36.0/24;Digital Energy Technologies Ltd.
 5.45.37.0/24;Digital Energy Technologies Ltd.
@@ -76,7 +76,6 @@
 27.49.243.0/24;Ms Ortel Communications Ltd
 27.49.244.0/24;Ms Ortel Communications Ltd
 27.49.245.0/24;Ms Ortel Communications Ltd
-27.49.246.0/24;Ms Ortel Communications Ltd
 27.49.247.0/24;Ms Ortel Communications Ltd
 27.49.248.0/24;Ms Ortel Communications Ltd
 27.49.249.0/24;Ms Ortel Communications Ltd
@@ -90,8 +89,6 @@
 36.72.213.0/24;PT Telekomunikasi Indonesia
 36.72.214.0/24;PT Telekomunikasi Indonesia
 36.72.215.0/24;PT Telekomunikasi Indonesia
-37.9.44.0/24;ST-BGP
-37.9.45.0/24;ST-BGP
 43.239.80.0/24;MEGHBELA BROADBAND
 43.239.81.0/24;MEGHBELA BROADBAND
 43.239.82.0/24;MEGHBELA BROADBAND
@@ -108,7 +105,6 @@
 43.251.177.0/24;MEGHBELA BROADBAND
 43.251.178.0/24;MEGHBELA BROADBAND
 43.251.179.0/24;MEGHBELA BROADBAND
-45.10.164.0/24;AS-COLOCROSSING
 45.73.160.0/24;AS-COLOAM
 45.73.161.0/24;AS-COLOAM
 45.73.162.0/24;AS-COLOAM
@@ -128,13 +124,11 @@
 45.123.217.0/24;MEGHBELA BROADBAND
 45.123.218.0/24;MEGHBELA BROADBAND
 45.123.219.0/24;MEGHBELA BROADBAND
-45.138.100.0/24;UAB Rakrejus
 45.141.178.0/24;AS-BLAZINGSEO
 45.141.216.0/24;Scalaxy B.V.
 45.141.217.0/24;Scalaxy B.V.
 45.141.218.0/24;Scalaxy B.V.
 45.141.219.0/24;Scalaxy B.V.
-46.161.57.0/24;UAB Rakrejus
 64.44.104.0/24;NEXEON
 64.44.106.0/24;NEXEON
 66.78.0.0/24;AS-COLOAM
@@ -166,9 +160,6 @@
 67.227.94.0/24;AS-COLOAM
 67.227.95.0/24;AS-COLOAM
 67.227.106.0/24;AS-COLOAM
-77.220.193.0/24;UAB Rakrejus
-85.209.150.0/24;ST-BGP
-85.209.151.0/24;ST-BGP
 89.185.76.0/24;M247 Ltd
 89.185.77.0/24;M247 Ltd
 89.185.78.0/24;M247 Ltd
@@ -227,7 +218,6 @@
 113.19.101.0/24;Ms Ortel Communications Ltd
 113.19.102.0/24;Ms Ortel Communications Ltd
 113.19.103.0/24;Ms Ortel Communications Ltd
-113.19.104.0/24;Ms Ortel Communications Ltd
 113.19.105.0/24;Ms Ortel Communications Ltd
 113.19.106.0/24;Ms Ortel Communications Ltd
 113.19.107.0/24;Ms Ortel Communications Ltd
