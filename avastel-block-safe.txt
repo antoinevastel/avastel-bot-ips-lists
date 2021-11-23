@@ -1,9 +1,7 @@
 # Avastel safe blocklist
-# Last update: Sun Nov 21 2021 00:02:33 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 71936
+# Last update: Mon Nov 22 2021 00:02:41 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 63488
 
-5.45.36.0/24;Digital Energy Technologies Ltd.
-5.45.37.0/24;Digital Energy Technologies Ltd.
 27.48.123.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
@@ -15,12 +13,8 @@
 27.48.253.0/24;Ms Ortel Communications Ltd
 27.48.254.0/24;Ms Ortel Communications Ltd
 27.48.255.0/24;Ms Ortel Communications Ltd
-27.49.197.0/24;Ms Ortel Communications Ltd
-27.49.207.0/24;Ms Ortel Communications Ltd
-27.49.209.0/24;Ms Ortel Communications Ltd
 27.49.217.0/24;Ms Ortel Communications Ltd
 27.49.218.0/24;Ms Ortel Communications Ltd
-27.49.222.0/24;Ms Ortel Communications Ltd
 27.49.224.0/24;Ms Ortel Communications Ltd
 27.49.225.0/24;Ms Ortel Communications Ltd
 27.49.226.0/24;Ms Ortel Communications Ltd
@@ -29,7 +23,6 @@
 27.49.229.0/24;Ms Ortel Communications Ltd
 27.49.230.0/24;Ms Ortel Communications Ltd
 27.49.231.0/24;Ms Ortel Communications Ltd
-27.49.248.0/24;Ms Ortel Communications Ltd
 43.239.80.0/24;MEGHBELA BROADBAND
 43.239.81.0/24;MEGHBELA BROADBAND
 43.239.82.0/24;MEGHBELA BROADBAND
@@ -61,11 +54,6 @@
 45.123.217.0/24;MEGHBELA BROADBAND
 45.123.218.0/24;MEGHBELA BROADBAND
 45.123.219.0/24;MEGHBELA BROADBAND
-45.141.178.0/24;AS-BLAZINGSEO
-45.141.216.0/24;Scalaxy B.V.
-45.141.217.0/24;Scalaxy B.V.
-45.141.218.0/24;Scalaxy B.V.
-45.141.219.0/24;Scalaxy B.V.
 64.44.104.0/24;NEXEON
 64.44.106.0/24;NEXEON
 66.78.0.0/24;AS-COLOAM
@@ -134,7 +122,6 @@
 103.56.238.0/24;MEGHBELA BROADBAND
 103.56.239.0/24;MEGHBELA BROADBAND
 103.192.60.0/24;MEGHBELA BROADBAND
-103.193.89.0/24;MEGHBELA BROADBAND
 103.193.90.0/24;MEGHBELA BROADBAND
 103.193.91.0/24;MEGHBELA BROADBAND
 103.244.241.0/24;MEGHBELA BROADBAND
@@ -142,11 +129,8 @@
 103.244.243.0/24;MEGHBELA BROADBAND
 103.251.80.0/24;MEGHBELA BROADBAND
 103.251.81.0/24;MEGHBELA BROADBAND
-103.251.82.0/24;MEGHBELA BROADBAND
 104.222.146.0/24;QUICKPACKET
 104.222.150.0/24;QUICKPACKET
-113.19.145.0/24;Ms Ortel Communications Ltd
-113.19.148.0/24;Ms Ortel Communications Ltd
 150.129.109.0/24;MEGHBELA BROADBAND
 150.129.110.0/24;MEGHBELA BROADBAND
 150.129.111.0/24;MEGHBELA BROADBAND
@@ -216,10 +200,6 @@
 184.174.13.0/24;AS-COLOAM
 184.174.15.0/24;AS-COLOAM
 185.163.211.0/24;MODMC
-185.182.184.0/24;Digital Energy Technologies Ltd.
-185.182.185.0/24;Digital Energy Technologies Ltd.
-185.182.186.0/24;Digital Energy Technologies Ltd.
-185.182.187.0/24;Digital Energy Technologies Ltd.
 185.202.169.0/24;AS-COLOAM
 185.202.170.0/24;AS-COLOAM
 185.202.171.0/24;AS-COLOAM
@@ -230,19 +210,6 @@
 185.210.76.0/24;AS-COLOAM
 194.93.6.0/24;AS-COLOAM
 194.93.7.0/24;AS-COLOAM
-196.199.40.0/24;Orion Network Limited
-196.199.104.0/24;Orion Network Limited
-196.242.18.0/24;Packet Exchange Limited
-196.242.89.0/24;Orion Network Limited
-196.245.180.0/24;Orion Network Limited
-196.245.181.0/24;Orion Network Limited
-196.245.182.0/24;Orion Network Limited
-196.245.183.0/24;Orion Network Limited
-196.247.161.0/24;Orion Network Limited
-196.247.173.0/24;Packet Exchange Limited
-196.247.174.0/24;Packet Exchange Limited
-196.247.175.0/24;Packet Exchange Limited
-199.189.254.0/24;QUICKPACKET
 203.147.88.0/24;MEGHBELA BROADBAND
 203.147.89.0/24;MEGHBELA BROADBAND
 203.147.90.0/24;MEGHBELA BROADBAND
