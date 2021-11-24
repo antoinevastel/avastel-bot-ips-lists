@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Mon Nov 22 2021 00:02:41 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 158208
+# Last update: Tue Nov 23 2021 00:02:07 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 155904
 
 5.133.120.0/24;UGB Hosting OU
 5.133.121.0/24;UGB Hosting OU
@@ -30,17 +30,14 @@
 27.48.234.0/24;Ms Ortel Communications Ltd
 27.48.235.0/24;Ms Ortel Communications Ltd
 27.48.236.0/24;Ms Ortel Communications Ltd
-27.48.237.0/24;Ms Ortel Communications Ltd
 27.48.238.0/24;Ms Ortel Communications Ltd
 27.48.239.0/24;Ms Ortel Communications Ltd
-27.48.240.0/24;Ms Ortel Communications Ltd
 27.48.241.0/24;Ms Ortel Communications Ltd
 27.48.242.0/24;Ms Ortel Communications Ltd
 27.48.243.0/24;Ms Ortel Communications Ltd
 27.48.244.0/24;Ms Ortel Communications Ltd
 27.48.245.0/24;Ms Ortel Communications Ltd
 27.48.246.0/24;Ms Ortel Communications Ltd
-27.48.247.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.249.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
@@ -50,9 +47,6 @@
 27.48.254.0/24;Ms Ortel Communications Ltd
 27.48.255.0/24;Ms Ortel Communications Ltd
 27.49.57.0/24;Ms Ortel Communications Ltd
-27.49.97.0/24;Ms Ortel Communications Ltd
-27.49.118.0/24;Ms Ortel Communications Ltd
-27.49.137.0/24;Ms Ortel Communications Ltd
 27.49.192.0/24;Ms Ortel Communications Ltd
 27.49.193.0/24;Ms Ortel Communications Ltd
 27.49.194.0/24;Ms Ortel Communications Ltd
@@ -120,7 +114,6 @@
 36.72.213.0/24;PT Telekomunikasi Indonesia
 36.72.214.0/24;PT Telekomunikasi Indonesia
 36.72.215.0/24;PT Telekomunikasi Indonesia
-36.73.34.0/24;PT Telekomunikasi Indonesia
 37.9.44.0/24;ST-BGP
 37.9.45.0/24;ST-BGP
 37.9.46.0/24;ST-BGP
@@ -319,8 +312,6 @@
 103.56.237.0/24;MEGHBELA BROADBAND
 103.56.238.0/24;MEGHBELA BROADBAND
 103.56.239.0/24;MEGHBELA BROADBAND
-103.144.170.0/24;PT INDONESIA COMNETS PLUS
-103.147.9.0/24;PT. Cemerlang Multimedia
 103.192.60.0/24;MEGHBELA BROADBAND
 103.192.63.0/24;MEGHBELA BROADBAND
 103.193.89.0/24;MEGHBELA BROADBAND
