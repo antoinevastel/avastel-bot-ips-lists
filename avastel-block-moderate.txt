@@ -1,19 +1,12 @@
 # Avastel moderate blocklist
-# Last update: Tue Nov 23 2021 00:02:07 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 88320
+# Last update: Wed Nov 24 2021 00:02:08 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 82688
 
-27.48.112.0/24;Ms Ortel Communications Ltd
-27.48.113.0/24;Ms Ortel Communications Ltd
 27.48.115.0/24;Ms Ortel Communications Ltd
 27.48.116.0/24;Ms Ortel Communications Ltd
 27.48.117.0/24;Ms Ortel Communications Ltd
-27.48.119.0/24;Ms Ortel Communications Ltd
-27.48.120.0/24;Ms Ortel Communications Ltd
-27.48.121.0/24;Ms Ortel Communications Ltd
-27.48.122.0/24;Ms Ortel Communications Ltd
 27.48.123.0/24;Ms Ortel Communications Ltd
 27.48.124.0/24;Ms Ortel Communications Ltd
-27.48.126.0/24;Ms Ortel Communications Ltd
 27.48.127.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
@@ -32,28 +25,22 @@
 27.49.196.0/24;Ms Ortel Communications Ltd
 27.49.197.0/24;Ms Ortel Communications Ltd
 27.49.198.0/24;Ms Ortel Communications Ltd
-27.49.199.0/24;Ms Ortel Communications Ltd
 27.49.200.0/24;Ms Ortel Communications Ltd
 27.49.201.0/24;Ms Ortel Communications Ltd
 27.49.202.0/24;Ms Ortel Communications Ltd
 27.49.203.0/24;Ms Ortel Communications Ltd
 27.49.204.0/24;Ms Ortel Communications Ltd
 27.49.205.0/24;Ms Ortel Communications Ltd
-27.49.206.0/24;Ms Ortel Communications Ltd
 27.49.207.0/24;Ms Ortel Communications Ltd
-27.49.208.0/24;Ms Ortel Communications Ltd
 27.49.209.0/24;Ms Ortel Communications Ltd
 27.49.210.0/24;Ms Ortel Communications Ltd
 27.49.211.0/24;Ms Ortel Communications Ltd
 27.49.212.0/24;Ms Ortel Communications Ltd
-27.49.213.0/24;Ms Ortel Communications Ltd
 27.49.214.0/24;Ms Ortel Communications Ltd
-27.49.215.0/24;Ms Ortel Communications Ltd
 27.49.216.0/24;Ms Ortel Communications Ltd
 27.49.217.0/24;Ms Ortel Communications Ltd
 27.49.218.0/24;Ms Ortel Communications Ltd
 27.49.219.0/24;Ms Ortel Communications Ltd
-27.49.220.0/24;Ms Ortel Communications Ltd
 27.49.221.0/24;Ms Ortel Communications Ltd
 27.49.222.0/24;Ms Ortel Communications Ltd
 27.49.223.0/24;Ms Ortel Communications Ltd
@@ -69,9 +56,7 @@
 27.49.241.0/24;Ms Ortel Communications Ltd
 27.49.242.0/24;Ms Ortel Communications Ltd
 27.49.245.0/24;Ms Ortel Communications Ltd
-27.49.247.0/24;Ms Ortel Communications Ltd
 27.49.248.0/24;Ms Ortel Communications Ltd
-27.49.249.0/24;Ms Ortel Communications Ltd
 27.49.250.0/24;Ms Ortel Communications Ltd
 27.49.251.0/24;Ms Ortel Communications Ltd
 27.49.252.0/24;Ms Ortel Communications Ltd
@@ -87,7 +72,6 @@
 43.251.170.0/24;MEGHBELA BROADBAND
 43.251.171.0/24;MEGHBELA BROADBAND
 43.251.172.0/24;MEGHBELA BROADBAND
-43.251.173.0/24;MEGHBELA BROADBAND
 43.251.174.0/24;MEGHBELA BROADBAND
 43.251.175.0/24;MEGHBELA BROADBAND
 43.251.176.0/24;MEGHBELA BROADBAND
@@ -194,7 +178,6 @@
 103.251.83.0/24;MEGHBELA BROADBAND
 104.222.146.0/24;QUICKPACKET
 104.222.150.0/24;QUICKPACKET
-113.19.96.0/24;Ms Ortel Communications Ltd
 113.19.97.0/24;Ms Ortel Communications Ltd
 113.19.98.0/24;Ms Ortel Communications Ltd
 113.19.99.0/24;Ms Ortel Communications Ltd
@@ -203,7 +186,6 @@
 113.19.103.0/24;Ms Ortel Communications Ltd
 113.19.105.0/24;Ms Ortel Communications Ltd
 113.19.106.0/24;Ms Ortel Communications Ltd
-113.19.107.0/24;Ms Ortel Communications Ltd
 113.19.108.0/24;Ms Ortel Communications Ltd
 113.19.110.0/24;Ms Ortel Communications Ltd
 113.19.111.0/24;Ms Ortel Communications Ltd
@@ -211,15 +193,12 @@
 113.19.145.0/24;Ms Ortel Communications Ltd
 113.19.146.0/24;Ms Ortel Communications Ltd
 113.19.148.0/24;Ms Ortel Communications Ltd
-113.19.149.0/24;Ms Ortel Communications Ltd
-113.19.150.0/24;Ms Ortel Communications Ltd
 113.19.151.0/24;Ms Ortel Communications Ltd
 113.19.153.0/24;Ms Ortel Communications Ltd
 113.19.154.0/24;Ms Ortel Communications Ltd
 113.19.156.0/24;Ms Ortel Communications Ltd
 113.19.157.0/24;Ms Ortel Communications Ltd
 113.19.158.0/24;Ms Ortel Communications Ltd
-113.19.159.0/24;Ms Ortel Communications Ltd
 150.129.108.0/24;MEGHBELA BROADBAND
 150.129.109.0/24;MEGHBELA BROADBAND
 150.129.110.0/24;MEGHBELA BROADBAND
@@ -336,7 +315,6 @@
 223.29.194.0/24;MEGHBELA BROADBAND
 223.29.195.0/24;MEGHBELA BROADBAND
 223.29.196.0/24;MEGHBELA BROADBAND
-223.29.197.0/24;MEGHBELA BROADBAND
 223.29.198.0/24;MEGHBELA BROADBAND
 223.29.199.0/24;MEGHBELA BROADBAND
 223.29.200.0/24;MEGHBELA BROADBAND

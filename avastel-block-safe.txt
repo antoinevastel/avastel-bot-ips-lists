@@ -1,5 +1,5 @@
 # Avastel safe blocklist
-# Last update: Tue Nov 23 2021 00:02:07 GMT+0000 (Coordinated Universal Time)
+# Last update: Wed Nov 24 2021 00:02:08 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 62976
 
 27.48.233.0/24;Ms Ortel Communications Ltd
