@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Wed Nov 24 2021 00:02:08 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 154368
+# Last update: Thu Nov 25 2021 00:02:09 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 155392
 
 5.133.120.0/24;UGB Hosting OU
 5.133.121.0/24;UGB Hosting OU
@@ -33,7 +33,6 @@
 27.48.238.0/24;Ms Ortel Communications Ltd
 27.48.243.0/24;Ms Ortel Communications Ltd
 27.48.245.0/24;Ms Ortel Communications Ltd
-27.48.246.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.249.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
@@ -481,6 +480,7 @@
 185.233.187.0/24;UGB Hosting OU
 185.250.44.0/24;Silverstar Invest Limited
 185.250.47.0/24;Silverstar Invest Limited
+188.191.50.0/24;Tngnet B.v.
 193.31.74.0/24;M247 Ltd
 193.31.75.0/24;M247 Ltd
 193.31.126.0/24;Global Layer B.V.
@@ -574,6 +574,7 @@
 212.193.14.0/24;Global Layer B.V.
 213.108.0.0/24;AS-COLOCROSSING
 213.108.3.0/24;AS-COLOCROSSING
+213.142.140.0/24;ADEOXTECH
 213.166.77.0/24;COGENT-174
 213.166.78.0/24;COGENT-174
 213.166.79.0/24;COGENT-174
@@ -589,6 +590,9 @@
 216.158.202.0/24;QUICKPACKET
 216.158.213.0/24;QUICKPACKET
 216.158.216.0/24;QUICKPACKET
+216.189.27.0/24;ARACHNITEC
+216.189.28.0/24;ARACHNITEC
+216.189.32.0/24;ARACHNITEC
 217.145.227.0/24;Global Layer B.V.
 223.29.193.0/24;MEGHBELA BROADBAND
 223.29.194.0/24;MEGHBELA BROADBAND
