@@ -1,19 +1,11 @@
 # Avastel ultra-safe blocklist
-# Last update: Fri Nov 26 2021 00:02:05 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 53248
+# Last update: Sat Nov 27 2021 00:02:11 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 51200
 
-27.48.233.0/24;Ms Ortel Communications Ltd
-27.48.234.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
-27.48.251.0/24;Ms Ortel Communications Ltd
-27.48.252.0/24;Ms Ortel Communications Ltd
-27.48.254.0/24;Ms Ortel Communications Ltd
-27.48.255.0/24;Ms Ortel Communications Ltd
 27.49.225.0/24;Ms Ortel Communications Ltd
 27.49.226.0/24;Ms Ortel Communications Ltd
-27.49.229.0/24;Ms Ortel Communications Ltd
-27.49.231.0/24;Ms Ortel Communications Ltd
 43.239.83.0/24;MEGHBELA BROADBAND
 43.251.169.0/24;MEGHBELA BROADBAND
 43.251.171.0/24;MEGHBELA BROADBAND

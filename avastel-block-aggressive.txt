@@ -1,5 +1,5 @@
 # Avastel aggressive blocklist
-# Last update: Fri Nov 26 2021 00:02:05 GMT+0000 (Coordinated Universal Time)
+# Last update: Sat Nov 27 2021 00:02:11 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 159744
 
 5.133.120.0/24;UGB Hosting OU
@@ -11,7 +11,6 @@
 5.183.254.0/24;ST-BGP
 27.48.112.0/24;Ms Ortel Communications Ltd
 27.48.113.0/24;Ms Ortel Communications Ltd
-27.48.114.0/24;Ms Ortel Communications Ltd
 27.48.115.0/24;Ms Ortel Communications Ltd
 27.48.116.0/24;Ms Ortel Communications Ltd
 27.48.117.0/24;Ms Ortel Communications Ltd
@@ -25,10 +24,8 @@
 27.48.125.0/24;Ms Ortel Communications Ltd
 27.48.126.0/24;Ms Ortel Communications Ltd
 27.48.127.0/24;Ms Ortel Communications Ltd
-27.48.232.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
-27.48.245.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.249.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
@@ -491,6 +488,7 @@
 185.250.47.0/24;Silverstar Invest Limited
 188.0.40.0/24;Delta Telesystems Ltd.
 188.0.42.0/24;Delta Telesystems Ltd.
+188.0.44.0/24;Delta Telesystems Ltd.
 188.0.45.0/24;Delta Telesystems Ltd.
 188.0.47.0/24;Delta Telesystems Ltd.
 188.191.50.0/24;Tngnet B.v.
@@ -573,6 +571,7 @@
 209.198.48.0/24;ARACHNITEC
 212.60.20.0/24;Silverstar Invest Limited
 212.60.21.0/24;Silverstar Invest Limited
+212.70.244.0/24;Net Bull Srl
 212.70.245.0/24;Net Bull Srl
 212.115.51.0/24;Global Layer B.V.
 212.119.41.0/24;ASN-QUADRANET-GLOBAL
@@ -591,6 +590,7 @@
 213.108.0.0/24;AS-COLOCROSSING
 213.108.3.0/24;AS-COLOCROSSING
 213.142.140.0/24;ADEOXTECH
+213.142.147.0/24;ADEOXTECH
 213.166.77.0/24;COGENT-174
 213.166.78.0/24;COGENT-174
 213.166.79.0/24;COGENT-174
