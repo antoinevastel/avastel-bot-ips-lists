@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Sat Nov 27 2021 00:02:11 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 159744
+# Last update: Sun Nov 28 2021 00:02:04 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 157440
 
 5.133.120.0/24;UGB Hosting OU
 5.133.121.0/24;UGB Hosting OU
@@ -9,7 +9,6 @@
 5.181.171.0/24;ST-BGP
 5.183.252.0/24;AS-COLOCROSSING
 5.183.254.0/24;ST-BGP
-27.48.112.0/24;Ms Ortel Communications Ltd
 27.48.113.0/24;Ms Ortel Communications Ltd
 27.48.115.0/24;Ms Ortel Communications Ltd
 27.48.116.0/24;Ms Ortel Communications Ltd
@@ -18,7 +17,6 @@
 27.48.119.0/24;Ms Ortel Communications Ltd
 27.48.120.0/24;Ms Ortel Communications Ltd
 27.48.121.0/24;Ms Ortel Communications Ltd
-27.48.122.0/24;Ms Ortel Communications Ltd
 27.48.123.0/24;Ms Ortel Communications Ltd
 27.48.124.0/24;Ms Ortel Communications Ltd
 27.48.125.0/24;Ms Ortel Communications Ltd
@@ -78,9 +76,7 @@
 27.49.241.0/24;Ms Ortel Communications Ltd
 27.49.242.0/24;Ms Ortel Communications Ltd
 27.49.243.0/24;Ms Ortel Communications Ltd
-27.49.244.0/24;Ms Ortel Communications Ltd
 27.49.245.0/24;Ms Ortel Communications Ltd
-27.49.246.0/24;Ms Ortel Communications Ltd
 27.49.247.0/24;Ms Ortel Communications Ltd
 27.49.248.0/24;Ms Ortel Communications Ltd
 27.49.249.0/24;Ms Ortel Communications Ltd
@@ -93,7 +89,6 @@
 31.40.208.0/24;COGENT-174
 31.40.209.0/24;COGENT-174
 31.40.248.0/24;Global Layer B.V.
-31.40.249.0/24;Global Layer B.V.
 31.40.252.0/24;COGENT-174
 31.40.254.0/24;COGENT-174
 31.40.255.0/24;COGENT-174
@@ -157,7 +152,6 @@
 45.132.186.0/24;ASN-QUADRANET-GLOBAL
 45.132.187.0/24;ST-BGP
 45.138.100.0/24;UAB Rakrejus
-45.138.101.0/24;ST-BGP
 45.138.102.0/24;DEDIPATH-LLC
 45.140.205.0/24;ASN-QUADRANET-GLOBAL
 45.140.206.0/24;UGB Hosting OU
@@ -334,10 +328,8 @@
 113.19.101.0/24;Ms Ortel Communications Ltd
 113.19.102.0/24;Ms Ortel Communications Ltd
 113.19.103.0/24;Ms Ortel Communications Ltd
-113.19.104.0/24;Ms Ortel Communications Ltd
 113.19.105.0/24;Ms Ortel Communications Ltd
 113.19.106.0/24;Ms Ortel Communications Ltd
-113.19.107.0/24;Ms Ortel Communications Ltd
 113.19.108.0/24;Ms Ortel Communications Ltd
 113.19.109.0/24;Ms Ortel Communications Ltd
 113.19.110.0/24;Ms Ortel Communications Ltd
@@ -353,7 +345,6 @@
 113.19.152.0/24;Ms Ortel Communications Ltd
 113.19.153.0/24;Ms Ortel Communications Ltd
 113.19.154.0/24;Ms Ortel Communications Ltd
-113.19.155.0/24;Ms Ortel Communications Ltd
 113.19.156.0/24;Ms Ortel Communications Ltd
 113.19.157.0/24;Ms Ortel Communications Ltd
 113.19.158.0/24;Ms Ortel Communications Ltd
