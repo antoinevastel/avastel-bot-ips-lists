@@ -1,22 +1,18 @@
 # Avastel safe blocklist
-# Last update: Mon Nov 29 2021 00:02:11 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 58112
+# Last update: Tue Nov 30 2021 00:01:50 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 59392
 
 27.48.233.0/24;Ms Ortel Communications Ltd
-27.48.234.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
-27.48.249.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
-27.48.251.0/24;Ms Ortel Communications Ltd
 27.48.252.0/24;Ms Ortel Communications Ltd
 27.48.254.0/24;Ms Ortel Communications Ltd
-27.48.255.0/24;Ms Ortel Communications Ltd
 27.49.225.0/24;Ms Ortel Communications Ltd
 27.49.226.0/24;Ms Ortel Communications Ltd
 27.49.228.0/24;Ms Ortel Communications Ltd
-27.49.229.0/24;Ms Ortel Communications Ltd
 27.49.230.0/24;Ms Ortel Communications Ltd
-27.49.231.0/24;Ms Ortel Communications Ltd
+31.128.44.0/24;New information technologies Ltd
+31.128.47.0/24;New information technologies Ltd
 43.239.83.0/24;MEGHBELA BROADBAND
 43.251.169.0/24;MEGHBELA BROADBAND
 43.251.171.0/24;MEGHBELA BROADBAND
@@ -70,6 +66,7 @@
 67.227.95.0/24;AS-COLOAM
 67.227.106.0/24;AS-COLOAM
 77.47.245.0/24;Association of users of Ukrainian Research & Academic Network URAN
+77.221.56.0/24;Microsystem-Kecskemet Kft
 89.185.76.0/24;M247 Ltd
 89.185.77.0/24;M247 Ltd
 89.185.78.0/24;M247 Ltd
@@ -154,7 +151,9 @@
 173.211.55.0/24;AS-COLOAM
 173.211.98.0/24;AS-COLOAM
 177.136.248.0/24;BRX TELECOMUNICACOES LTDA - EPP
+177.136.249.0/24;BRX TELECOMUNICACOES LTDA - EPP
 177.136.252.0/24;BRX TELECOMUNICACOES LTDA - EPP
+177.136.254.0/24;BRX TELECOMUNICACOES LTDA - EPP
 178.171.38.0/24;M247 Ltd
 178.171.40.0/24;M247 Ltd
 178.171.41.0/24;M247 Ltd
@@ -188,6 +187,10 @@
 185.206.223.0/24;AS-COLOAM
 185.210.76.0/24;AS-COLOAM
 188.0.40.0/24;Delta Telesystems Ltd.
+188.0.42.0/24;Delta Telesystems Ltd.
+188.0.44.0/24;Delta Telesystems Ltd.
+188.0.45.0/24;Delta Telesystems Ltd.
+188.0.47.0/24;Delta Telesystems Ltd.
 188.191.50.0/24;Tngnet B.v.
 194.93.6.0/24;AS-COLOAM
 194.93.7.0/24;AS-COLOAM
@@ -208,6 +211,8 @@
 204.52.109.0/24;CLOUD-SOUTH
 204.52.111.0/24;CLOUD-SOUTH
 209.198.48.0/24;ARACHNITEC
+212.70.244.0/24;Net Bull Srl
+212.236.100.0/24;Video-Broadcast GmbH
 213.219.252.0/24;AS-COLOAM
 213.219.253.0/24;AS-COLOAM
 213.219.254.0/24;AS-COLOAM

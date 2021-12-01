@@ -1,20 +1,15 @@
 # Avastel aggressive blocklist
-# Last update: Mon Nov 29 2021 00:02:11 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 147968
+# Last update: Tue Nov 30 2021 00:01:50 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 133632
 
 5.133.120.0/24;UGB Hosting OU
 5.133.121.0/24;UGB Hosting OU
 5.133.123.0/24;Global Layer B.V.
 5.181.170.0/24;Global Layer B.V.
 5.181.171.0/24;ST-BGP
-5.183.252.0/24;AS-COLOCROSSING
 5.183.254.0/24;ST-BGP
-27.48.115.0/24;Ms Ortel Communications Ltd
-27.48.117.0/24;Ms Ortel Communications Ltd
-27.48.120.0/24;Ms Ortel Communications Ltd
 27.48.121.0/24;Ms Ortel Communications Ltd
 27.48.123.0/24;Ms Ortel Communications Ltd
-27.48.127.0/24;Ms Ortel Communications Ltd
 27.48.233.0/24;Ms Ortel Communications Ltd
 27.48.234.0/24;Ms Ortel Communications Ltd
 27.48.248.0/24;Ms Ortel Communications Ltd
@@ -25,22 +20,11 @@
 27.48.253.0/24;Ms Ortel Communications Ltd
 27.48.254.0/24;Ms Ortel Communications Ltd
 27.48.255.0/24;Ms Ortel Communications Ltd
-27.49.192.0/24;Ms Ortel Communications Ltd
 27.49.193.0/24;Ms Ortel Communications Ltd
-27.49.194.0/24;Ms Ortel Communications Ltd
-27.49.195.0/24;Ms Ortel Communications Ltd
-27.49.196.0/24;Ms Ortel Communications Ltd
 27.49.197.0/24;Ms Ortel Communications Ltd
-27.49.201.0/24;Ms Ortel Communications Ltd
-27.49.203.0/24;Ms Ortel Communications Ltd
-27.49.204.0/24;Ms Ortel Communications Ltd
 27.49.205.0/24;Ms Ortel Communications Ltd
 27.49.207.0/24;Ms Ortel Communications Ltd
-27.49.209.0/24;Ms Ortel Communications Ltd
-27.49.210.0/24;Ms Ortel Communications Ltd
-27.49.211.0/24;Ms Ortel Communications Ltd
 27.49.212.0/24;Ms Ortel Communications Ltd
-27.49.213.0/24;Ms Ortel Communications Ltd
 27.49.217.0/24;Ms Ortel Communications Ltd
 27.49.218.0/24;Ms Ortel Communications Ltd
 27.49.219.0/24;Ms Ortel Communications Ltd
@@ -55,27 +39,19 @@
 27.49.230.0/24;Ms Ortel Communications Ltd
 27.49.231.0/24;Ms Ortel Communications Ltd
 27.49.240.0/24;Ms Ortel Communications Ltd
-27.49.241.0/24;Ms Ortel Communications Ltd
-27.49.242.0/24;Ms Ortel Communications Ltd
-27.49.245.0/24;Ms Ortel Communications Ltd
-27.49.247.0/24;Ms Ortel Communications Ltd
 27.49.248.0/24;Ms Ortel Communications Ltd
 27.49.250.0/24;Ms Ortel Communications Ltd
 27.49.251.0/24;Ms Ortel Communications Ltd
 27.49.252.0/24;Ms Ortel Communications Ltd
 27.49.253.0/24;Ms Ortel Communications Ltd
-27.49.254.0/24;Ms Ortel Communications Ltd
 31.40.208.0/24;COGENT-174
 31.40.209.0/24;COGENT-174
 31.40.248.0/24;Global Layer B.V.
-31.40.252.0/24;COGENT-174
 31.40.254.0/24;COGENT-174
 31.40.255.0/24;COGENT-174
 31.128.44.0/24;New information technologies Ltd
 31.128.47.0/24;New information technologies Ltd
-36.72.213.0/24;PT Telekomunikasi Indonesia
 36.72.214.0/24;PT Telekomunikasi Indonesia
-36.72.215.0/24;PT Telekomunikasi Indonesia
 37.9.44.0/24;ST-BGP
 37.9.45.0/24;ST-BGP
 37.9.46.0/24;ST-BGP
@@ -92,7 +68,6 @@
 43.251.170.0/24;MEGHBELA BROADBAND
 43.251.171.0/24;MEGHBELA BROADBAND
 43.251.172.0/24;MEGHBELA BROADBAND
-43.251.173.0/24;MEGHBELA BROADBAND
 43.251.174.0/24;MEGHBELA BROADBAND
 43.251.175.0/24;MEGHBELA BROADBAND
 43.251.176.0/24;MEGHBELA BROADBAND
@@ -100,8 +75,6 @@
 43.251.178.0/24;MEGHBELA BROADBAND
 43.251.179.0/24;MEGHBELA BROADBAND
 45.10.164.0/24;AS-COLOCROSSING
-45.10.165.0/24;AS-COLOCROSSING
-45.10.167.0/24;AS-COLOCROSSING
 45.66.208.0/24;UAB Rakrejus
 45.66.211.0/24;ST-BGP
 45.67.213.0/24;ST-BGP
@@ -134,9 +107,7 @@
 45.140.205.0/24;ASN-QUADRANET-GLOBAL
 45.140.206.0/24;UGB Hosting OU
 45.145.130.0/24;UAB Rakrejus
-45.145.131.0/24;UAB Rakrejus
 45.148.124.0/24;UAB Rakrejus
-45.148.125.0/24;DEDIPATH-LLC
 45.148.126.0/24;ST-BGP
 45.148.127.0/24;ASN-QUADRANET-GLOBAL
 45.148.233.0/24;Global Layer B.V.
@@ -186,7 +157,6 @@
 77.83.24.0/24;Global Layer B.V.
 77.83.25.0/24;Global Layer B.V.
 77.83.26.0/24;Global Layer B.V.
-77.83.27.0/24;Global Layer B.V.
 77.83.85.0/24;ST-BGP
 77.83.87.0/24;ST-BGP
 77.220.193.0/24;UAB Rakrejus
@@ -200,7 +170,6 @@
 83.142.54.0/24;UGB Hosting OU
 83.171.224.0/24;Global Layer B.V.
 83.171.225.0/24;ASN-GIGENET
-83.171.226.0/24;Global Layer B.V.
 83.171.252.0/24;Global Layer B.V.
 83.171.253.0/24;Global Layer B.V.
 83.171.254.0/24;COGENT-174
@@ -286,7 +255,6 @@
 103.251.80.0/24;MEGHBELA BROADBAND
 103.251.81.0/24;MEGHBELA BROADBAND
 103.251.82.0/24;MEGHBELA BROADBAND
-103.251.83.0/24;MEGHBELA BROADBAND
 104.222.146.0/24;QUICKPACKET
 104.222.150.0/24;QUICKPACKET
 109.94.172.0/24;DEDIPATH-LLC
@@ -297,31 +265,12 @@
 109.236.53.0/24;DEDIPATH-LLC
 109.236.54.0/24;DEDIPATH-LLC
 109.236.55.0/24;DEDIPATH-LLC
-113.19.96.0/24;Ms Ortel Communications Ltd
-113.19.98.0/24;Ms Ortel Communications Ltd
-113.19.100.0/24;Ms Ortel Communications Ltd
-113.19.101.0/24;Ms Ortel Communications Ltd
 113.19.103.0/24;Ms Ortel Communications Ltd
-113.19.106.0/24;Ms Ortel Communications Ltd
 113.19.108.0/24;Ms Ortel Communications Ltd
-113.19.110.0/24;Ms Ortel Communications Ltd
 113.19.111.0/24;Ms Ortel Communications Ltd
-113.19.144.0/24;Ms Ortel Communications Ltd
 113.19.145.0/24;Ms Ortel Communications Ltd
-113.19.146.0/24;Ms Ortel Communications Ltd
-113.19.147.0/24;Ms Ortel Communications Ltd
-113.19.148.0/24;Ms Ortel Communications Ltd
 113.19.151.0/24;Ms Ortel Communications Ltd
 113.19.153.0/24;Ms Ortel Communications Ltd
-113.19.154.0/24;Ms Ortel Communications Ltd
-113.19.156.0/24;Ms Ortel Communications Ltd
-113.19.157.0/24;Ms Ortel Communications Ltd
-113.19.158.0/24;Ms Ortel Communications Ltd
-125.164.16.0/24;PT Telekomunikasi Indonesia
-125.164.17.0/24;PT Telekomunikasi Indonesia
-125.164.20.0/24;PT Telekomunikasi Indonesia
-125.164.21.0/24;PT Telekomunikasi Indonesia
-125.164.23.0/24;PT Telekomunikasi Indonesia
 141.98.84.0/24;AS-COLOCROSSING
 141.98.85.0/24;ST-BGP
 146.185.201.0/24;UAB Rakrejus
@@ -404,8 +353,6 @@
 178.171.102.0/24;A.b Internet Solutions
 178.171.108.0/24;M247 Ltd
 178.171.109.0/24;M247 Ltd
-180.241.240.0/24;PT Telekomunikasi Indonesia
-180.241.241.0/24;PT Telekomunikasi Indonesia
 180.241.243.0/24;PT Telekomunikasi Indonesia
 184.174.8.0/24;AS-COLOAM
 184.174.10.0/24;AS-COLOAM
@@ -438,7 +385,6 @@
 185.206.222.0/24;AS-COLOAM
 185.206.223.0/24;AS-COLOAM
 185.210.76.0/24;AS-COLOAM
-185.233.187.0/24;UGB Hosting OU
 185.250.44.0/24;Silverstar Invest Limited
 185.250.47.0/24;Silverstar Invest Limited
 188.0.40.0/24;Delta Telesystems Ltd.
@@ -486,7 +432,6 @@
 194.87.39.0/24;ST-BGP
 194.87.52.0/24;UGB Hosting OU
 194.87.55.0/24;ST-BGP
-194.87.72.0/24;ST-BGP
 194.87.73.0/24;Global Layer B.V.
 194.87.74.0/24;Global Layer B.V.
 194.87.112.0/24;Global Layer B.V.
@@ -569,7 +514,6 @@
 223.29.194.0/24;MEGHBELA BROADBAND
 223.29.195.0/24;MEGHBELA BROADBAND
 223.29.196.0/24;MEGHBELA BROADBAND
-223.29.197.0/24;MEGHBELA BROADBAND
 223.29.198.0/24;MEGHBELA BROADBAND
 223.29.199.0/24;MEGHBELA BROADBAND
 223.29.200.0/24;MEGHBELA BROADBAND
