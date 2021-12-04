@@ -1,19 +1,9 @@
 # Avastel moderate blocklist
-# Last update: Thu Dec 02 2021 00:01:51 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 63232
+# Last update: Fri Dec 03 2021 00:01:48 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 59904
 
-27.48.233.0/24;Ms Ortel Communications Ltd
-27.48.248.0/24;Ms Ortel Communications Ltd
 27.48.250.0/24;Ms Ortel Communications Ltd
-27.48.251.0/24;Ms Ortel Communications Ltd
-27.48.252.0/24;Ms Ortel Communications Ltd
-27.48.253.0/24;Ms Ortel Communications Ltd
-27.48.254.0/24;Ms Ortel Communications Ltd
 27.49.225.0/24;Ms Ortel Communications Ltd
-27.49.226.0/24;Ms Ortel Communications Ltd
-27.49.229.0/24;Ms Ortel Communications Ltd
-27.49.230.0/24;Ms Ortel Communications Ltd
-27.49.231.0/24;Ms Ortel Communications Ltd
 31.128.44.0/24;New information technologies Ltd
 31.128.47.0/24;New information technologies Ltd
 43.239.83.0/24;MEGHBELA BROADBAND
@@ -34,7 +24,6 @@
 45.116.189.0/24;MEGHBELA BROADBAND
 45.116.190.0/24;MEGHBELA BROADBAND
 45.123.13.0/24;MEGHBELA BROADBAND
-45.123.14.0/24;MEGHBELA BROADBAND
 45.123.217.0/24;MEGHBELA BROADBAND
 45.123.218.0/24;MEGHBELA BROADBAND
 45.123.219.0/24;MEGHBELA BROADBAND
@@ -102,10 +91,8 @@
 103.10.209.0/24;MEGHBELA BROADBAND
 103.10.210.0/24;MEGHBELA BROADBAND
 103.27.141.0/24;MEGHBELA BROADBAND
-103.27.142.0/24;MEGHBELA BROADBAND
 103.56.236.0/24;MEGHBELA BROADBAND
 103.56.237.0/24;MEGHBELA BROADBAND
-103.192.60.0/24;MEGHBELA BROADBAND
 103.193.90.0/24;MEGHBELA BROADBAND
 103.193.91.0/24;MEGHBELA BROADBAND
 103.244.241.0/24;MEGHBELA BROADBAND
