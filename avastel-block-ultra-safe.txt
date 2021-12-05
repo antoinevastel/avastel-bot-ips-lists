@@ -1,6 +1,6 @@
 # Avastel ultra-safe blocklist
-# Last update: Fri Dec 03 2021 00:01:48 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 41472
+# Last update: Sat Dec 04 2021 00:01:39 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 41216
 
 43.251.176.0/24;MEGHBELA BROADBAND
 45.73.160.0/24;AS-COLOAM
@@ -69,7 +69,6 @@
 96.9.205.0/24;NEXEON
 96.9.206.0/24;NEXEON
 96.9.207.0/24;NEXEON
-103.10.210.0/24;MEGHBELA BROADBAND
 104.222.146.0/24;QUICKPACKET
 104.222.150.0/24;QUICKPACKET
 155.254.54.0/24;NForce Entertainment B.V.
