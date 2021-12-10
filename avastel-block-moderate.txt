@@ -1,10 +1,9 @@
 # Avastel moderate blocklist
-# Last update: Wed Dec 08 2021 00:01:20 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 16896
+# Last update: Thu Dec 09 2021 00:01:14 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 15360
 
 31.128.44.0/24;New information technologies Ltd
 31.128.47.0/24;New information technologies Ltd
-45.123.218.0/24;MEGHBELA BROADBAND
 77.47.245.0/24;Association of users of Ukrainian Research & Academic Network URAN
 77.221.56.0/24;Microsystem-Kecskemet Kft
 89.185.76.0/24;M247 Ltd
@@ -15,9 +14,6 @@
 92.240.204.0/24;M247 Ltd
 92.240.206.0/24;M247 Ltd
 92.240.207.0/24;M247 Ltd
-103.10.210.0/24;MEGHBELA BROADBAND
-103.56.237.0/24;MEGHBELA BROADBAND
-150.129.135.0/24;MEGHBELA BROADBAND
 158.46.184.0/24;M247 Ltd
 158.46.185.0/24;M247 Ltd
 158.46.186.0/24;M247 Ltd
@@ -56,7 +52,6 @@
 188.191.50.0/24;Tngnet B.v.
 193.31.74.0/24;M247 Ltd
 193.31.75.0/24;M247 Ltd
-203.147.88.0/24;MEGHBELA BROADBAND
 209.198.48.0/24;ARACHNITEC
 212.70.244.0/24;Net Bull Srl
 212.70.245.0/24;Net Bull Srl
@@ -67,4 +62,3 @@
 216.189.27.0/24;ARACHNITEC
 216.189.28.0/24;ARACHNITEC
 216.189.32.0/24;ARACHNITEC
-223.29.202.0/24;MEGHBELA BROADBAND
