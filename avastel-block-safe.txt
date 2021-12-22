@@ -1,6 +1,6 @@
 # Avastel safe blocklist
-# Last update: Mon Dec 20 2021 00:01:09 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 14848
+# Last update: Tue Dec 21 2021 00:01:04 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 14592
 
 31.128.44.0/24;New information technologies Ltd
 31.128.47.0/24;New information technologies Ltd
@@ -55,7 +55,6 @@
 212.70.245.0/24;Net Bull Srl
 212.236.100.0/24;Video-Broadcast GmbH
 213.142.140.0/24;ADEOXTECH
-213.142.147.0/24;ADEOXTECH
 216.189.16.0/24;ARACHNITEC
 216.189.27.0/24;ARACHNITEC
 216.189.28.0/24;ARACHNITEC
