@@ -1,10 +1,9 @@
 # Avastel safe blocklist
-# Last update: Fri Dec 24 2021 00:01:05 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 13056
+# Last update: Sat Dec 25 2021 00:01:05 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 12544
 
 31.128.47.0/24;New information technologies Ltd
 77.47.245.0/24;Association of users of Ukrainian Research & Academic Network URAN
-77.221.56.0/24;Microsystem-Kecskemet Kft
 89.185.76.0/24;M247 Ltd
 89.185.77.0/24;M247 Ltd
 89.185.78.0/24;M247 Ltd
@@ -43,7 +42,6 @@
 188.0.40.0/24;Delta Telesystems Ltd.
 188.0.42.0/24;Delta Telesystems Ltd.
 188.0.44.0/24;Delta Telesystems Ltd.
-188.0.45.0/24;Delta Telesystems Ltd.
 188.0.47.0/24;Delta Telesystems Ltd.
 188.191.50.0/24;Tngnet B.v.
 209.198.48.0/24;ARACHNITEC
