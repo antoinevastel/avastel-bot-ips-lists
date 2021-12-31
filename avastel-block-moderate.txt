@@ -1,11 +1,8 @@
 # Avastel moderate blocklist
-# Last update: Wed Dec 29 2021 00:01:02 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 14848
+# Last update: Thu Dec 30 2021 00:01:09 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 12288
 
-31.128.44.0/24;New information technologies Ltd
-31.128.47.0/24;New information technologies Ltd
 77.47.245.0/24;Association of users of Ukrainian Research & Academic Network URAN
-77.221.56.0/24;Microsystem-Kecskemet Kft
 89.185.76.0/24;M247 Ltd
 89.185.77.0/24;M247 Ltd
 89.185.78.0/24;M247 Ltd
@@ -19,10 +16,7 @@
 158.46.186.0/24;M247 Ltd
 158.46.187.0/24;M247 Ltd
 177.136.248.0/24;BRX TELECOMUNICACOES LTDA - EPP
-177.136.249.0/24;BRX TELECOMUNICACOES LTDA - EPP
-177.136.250.0/24;BRX TELECOMUNICACOES LTDA - EPP
 177.136.251.0/24;BRX TELECOMUNICACOES LTDA - EPP
-177.136.252.0/24;BRX TELECOMUNICACOES LTDA - EPP
 177.136.253.0/24;BRX TELECOMUNICACOES LTDA - EPP
 177.136.254.0/24;BRX TELECOMUNICACOES LTDA - EPP
 178.171.38.0/24;M247 Ltd
@@ -43,7 +37,6 @@
 178.171.102.0/24;A.b Internet Solutions
 178.171.108.0/24;M247 Ltd
 178.171.109.0/24;M247 Ltd
-188.0.40.0/24;Delta Telesystems Ltd.
 188.0.42.0/24;Delta Telesystems Ltd.
 188.0.44.0/24;Delta Telesystems Ltd.
 188.0.45.0/24;Delta Telesystems Ltd.
@@ -53,9 +46,6 @@
 193.31.75.0/24;M247 Ltd
 209.198.48.0/24;ARACHNITEC
 212.70.244.0/24;Net Bull Srl
-212.70.245.0/24;Net Bull Srl
-213.142.140.0/24;ADEOXTECH
-213.142.147.0/24;ADEOXTECH
 216.189.16.0/24;ARACHNITEC
 216.189.27.0/24;ARACHNITEC
 216.189.28.0/24;ARACHNITEC
