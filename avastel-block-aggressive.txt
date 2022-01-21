@@ -1,5 +1,5 @@
 # Avastel aggressive blocklist
-# Last update: Wed Jan 19 2022 00:01:06 GMT+0000 (Coordinated Universal Time)
+# Last update: Thu Jan 20 2022 00:01:05 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 8448
 
 89.185.76.0/24;M247 Ltd
