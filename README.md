@@ -13,3 +13,4 @@ You can also download them on my website:
 - [Avastel moderate blocklist](https://antoinevastel.com/data/avastel-block-moderate.txt)
 - [Avastel aggressive blocklist](https://antoinevastel.com/data/avastel-block-aggressive.txt)
 - [Avastel long time infected IPs blocklist](https://antoinevastel.com/data/avastel-longtime-bot-ips.txt)
+- [Avastel all infected IPs last 7 days](https://antoinevastel.com/data/avastel-ips-7d.txt)
