@@ -1,5 +1,5 @@
 # Avastel aggressive blocklist
-# Last update: Wed Feb 16 2022 00:02:04 GMT+0000 (Coordinated Universal Time)
+# Last update: Thu Feb 17 2022 00:02:07 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 44288
 
 45.73.160.0/24;AS-COLOAM
