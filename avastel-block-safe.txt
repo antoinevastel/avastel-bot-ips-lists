@@ -1,5 +1,5 @@
 # Avastel safe blocklist
-# Last update: Sun Feb 20 2022 00:02:20 GMT+0000 (Coordinated Universal Time)
+# Last update: Mon Feb 21 2022 00:02:00 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 43008
 
 45.73.160.0/24;AS-COLOAM
