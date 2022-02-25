@@ -1,6 +1,6 @@
 # Avastel moderate blocklist
-# Last update: Wed Feb 23 2022 00:01:51 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 43776
+# Last update: Thu Feb 24 2022 00:01:47 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 44032
 
 45.73.160.0/24;AS-COLOAM
 45.73.161.0/24;AS-COLOAM
@@ -77,6 +77,7 @@
 154.37.80.0/24;COGENT-174
 154.37.82.0/24;COGENT-174
 155.254.54.0/24;NForce Entertainment B.V.
+158.46.181.0/24;A.b Internet Solutions
 158.46.184.0/24;M247 Ltd
 158.46.185.0/24;M247 Ltd
 158.46.186.0/24;M247 Ltd
