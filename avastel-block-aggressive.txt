@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Thu Mar 03 2022 00:01:49 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 40704
+# Last update: Fri Mar 04 2022 00:02:38 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 40448
 
 45.73.160.0/24;AS-COLOAM
 45.73.161.0/24;AS-COLOAM
@@ -111,7 +111,6 @@
 173.211.54.0/24;AS-COLOAM
 173.211.55.0/24;AS-COLOAM
 173.211.98.0/24;AS-COLOAM
-177.87.68.0/24;S. C. Terres e Cia Ltda
 178.171.38.0/24;M247 Ltd
 178.171.44.0/24;M247 Ltd
 178.171.45.0/24;M247 Ltd
