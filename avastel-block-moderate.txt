@@ -1,5 +1,5 @@
 # Avastel moderate blocklist
-# Last update: Fri Mar 04 2022 00:02:38 GMT+0000 (Coordinated Universal Time)
+# Last update: Sat Mar 05 2022 00:01:49 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 40192
 
 45.73.160.0/24;AS-COLOAM
