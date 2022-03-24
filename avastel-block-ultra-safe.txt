@@ -1,5 +1,5 @@
 # Avastel ultra-safe blocklist
-# Last update: Tue Mar 22 2022 00:00:40 GMT+0000 (Coordinated Universal Time)
+# Last update: Wed Mar 23 2022 00:00:39 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 3328
 
 89.185.77.0/24;M247 Ltd
