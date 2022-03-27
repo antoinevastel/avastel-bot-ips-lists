@@ -1,5 +1,5 @@
 # Avastel moderate blocklist
-# Last update: Fri Mar 25 2022 00:00:39 GMT+0000 (Coordinated Universal Time)
+# Last update: Sat Mar 26 2022 00:00:43 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 4608
 
 89.185.76.0/24;M247 Ltd
