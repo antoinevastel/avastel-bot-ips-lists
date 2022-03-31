@@ -1,6 +1,6 @@
 # Avastel all infected IPs 7d blocklist
-# Last update: Thu Mar 31 2022 16:02:56 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 42779
+# Last update: Thu Mar 31 2022 16:11:05 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 42788
 
 ip_address;autonomous_system
 190.186.58.154;COTAS LTDA.
@@ -372,6 +372,7 @@ ip_address;autonomous_system
 185.173.35.13;SOFTLAYER
 45.90.218.95;Network Management Ltd
 190.144.131.134;Telmex Colombia S.A.
+189.45.26.30;WEB NET COMERCIO DE EQUIPAMENTOS LTDA
 110.39.161.114;National WiMAXIMS environment
 152.39.155.153;COMCAST-7922
 188.207.36.39;KPN B.V.
@@ -1490,6 +1491,7 @@ ip_address;autonomous_system
 178.171.28.244;M247 Ltd
 213.172.88.7;AzEuroTel J.V.
 134.19.215.62;Azertelecom
+41.45.249.138;TE-AS
 188.136.191.136;Ariana Gostar Spadana (PJSC)
 192.42.116.28;SURF B.V.
 192.241.222.177;DIGITALOCEAN-ASN
@@ -4136,6 +4138,7 @@ ip_address;autonomous_system
 178.128.96.141;DIGITALOCEAN-ASN
 185.149.200.158;KTM Telekom
 143.0.65.198;Tucuman BBS S.R.L.
+85.62.209.29;Orange Espagne SA
 177.67.48.6;MINUTES4ALL TELECOMUNICACOES LTDA
 152.228.163.151;OVH SAS
 197.0.96.77;TOPNET
@@ -4473,7 +4476,6 @@ ip_address;autonomous_system
 5.182.127.25;M247 Ltd
 180.149.11.122;HostRoyale Technologies Pvt Ltd
 185.76.241.238;COGENT-174
-::ffff:45.87.212.180;M247 Ltd
 193.111.187.156;M247 Ltd
 14.99.202.118;Tata Teleservices ISP AS
 216.194.90.23;HostRoyale Technologies Pvt Ltd
@@ -7675,6 +7677,7 @@ ip_address;autonomous_system
 92.240.204.69;M247 Ltd
 149.56.247.74;OVH SAS
 189.146.99.90;Uninet S.A. de C.V.
+177.137.207.246;Center Prestadora Servicos SC Ltda
 185.220.101.22;Cia Triad Security LLC
 103.25.45.38;Rainbow communications India Pvt Ltd
 190.95.156.166;Telconet S.A
@@ -12303,7 +12306,6 @@ ip_address;autonomous_system
 37.17.53.108;Unitary enterprise A1
 95.137.251.123;System Net Ltd
 45.134.114.118;HostRoyale Technologies Pvt Ltd
-::ffff:164.92.176.20;
 206.204.16.215;HostRoyale Technologies Pvt Ltd
 103.140.75.11;PT. Kayong Muara Teknoindo
 124.158.167.242;PT INDONESIA COMNETS PLUS
@@ -16419,6 +16421,7 @@ ip_address;autonomous_system
 92.240.206.193;M247 Ltd
 193.160.76.213;M247 Ltd
 41.174.179.147;Liquid Telecommunications Ltd
+2.180.33.66;Iran Telecommunication Company PJS
 41.39.229.202;TE-AS
 178.171.29.75;M247 Ltd
 202.50.53.32;Net Max Technologies Pvt. Ltd.
@@ -19371,6 +19374,7 @@ ip_address;autonomous_system
 185.201.129.185;M247 Ltd
 183.82.97.116;Atria Convergence Technologies pvt ltd
 116.0.54.30;Supernet Limited Transit Autonomous System Number
+200.103.63.204;Brasil Telecom SA - Filial Distrito Federal
 59.63.148.240;Chinanet
 177.136.32.214;TASCOM TELECOMUNICACOES LTDA
 58.20.232.245;CHINA UNICOM China169 Backbone
@@ -19848,6 +19852,7 @@ ip_address;autonomous_system
 54.211.204.0;AMAZON-AES
 45.179.228.104;GTN-TELECOM INTERNET LTDA-ME
 201.187.106.222;Telefonica del Sur S.A.
+183.17.228.13;Chinanet
 94.139.60.22;HostRoyale Technologies Pvt Ltd
 212.80.223.241;M247 Ltd
 110.77.213.150;CAT TELECOM Public Company Ltd,CAT
@@ -27144,7 +27149,6 @@ ip_address;autonomous_system
 178.171.64.133;M247 Ltd
 186.208.115.6;VOIPGLOBE SERVICOS DE COM MULTIMIDIA VIA INTERNET
 92.240.206.77;M247 Ltd
-::ffff:143.198.30.120;DIGITALOCEAN-ASN
 14.253.83.215;VNPT Corp
 167.248.133.120;CENSYS-ARIN-03
 178.171.44.187;M247 Ltd
@@ -30214,7 +30218,6 @@ ip_address;autonomous_system
 31.15.89.51;MTS PJSC
 191.101.85.219;Digital Energy Technologies Ltd.
 152.39.220.111;COMCAST-7922
-::ffff:159.223.208.72;
 188.190.245.135;LocalNet Ltd.
 192.241.223.9;DIGITALOCEAN-ASN
 88.214.2.61;Oy Crea Nova Hosting Solution Ltd
@@ -32997,6 +33000,7 @@ ip_address;autonomous_system
 192.241.222.176;DIGITALOCEAN-ASN
 172.105.113.133;Linode, LLC
 178.171.45.222;M247 Ltd
+101.51.213.227;TOT Public Company Limited
 103.146.30.14;PT MITRA VISIONER PRATAMA
 89.171.144.168;Netia SA
 216.19.204.231;Geekyworks IT Solutions Pvt Ltd
@@ -33265,6 +33269,7 @@ ip_address;autonomous_system
 178.171.102.22;A.b Internet Solutions
 191.101.84.232;Digital Energy Technologies Ltd.
 45.89.117.1;HostRoyale Technologies Pvt Ltd
+222.254.34.117;VNPT Corp
 45.33.96.205;Linode, LLC
 161.22.35.44;MDS TELECOM C.A.
 92.240.200.58;M247 Ltd
@@ -36618,6 +36623,7 @@ ip_address;autonomous_system
 203.109.53.170;HostRoyale Technologies Pvt Ltd
 181.215.10.88;Digital Energy Technologies Ltd.
 45.84.82.255;Istanbuldc Veri Merkezi Ltd Sti
+31.7.162.2;MTS Armenia CJSC
 113.168.15.223;VNPT Corp
 139.203.19.90;Chinanet
 152.39.180.184;COMCAST-7922
@@ -40577,7 +40583,6 @@ ip_address;autonomous_system
 196.251.251.108;Digital Energy Technologies Ltd.
 198.98.61.102;PONYNET
 113.162.232.96;VNPT Corp
-::ffff:68.183.199.180;DIGITALOCEAN-ASN
 45.92.85.204;HostRoyale Technologies Pvt Ltd
 185.15.177.88;M247 Ltd
 95.178.108.189;Appliwave SAS
@@ -40964,6 +40969,7 @@ ip_address;autonomous_system
 125.25.129.85;TOT Public Company Limited
 185.208.63.234;Rezocean SAS
 175.107.2.143;National Telecommunication Corporation HQ
+119.42.67.203;CAT TELECOM Public Company Ltd,CAT
 149.255.118.187;Elitel Telecom Group Ltd
 186.92.52.214;CANTV Servicios, Venezuela
 71.8.179.156;CHARTER-20115
@@ -41212,6 +41218,7 @@ ip_address;autonomous_system
 103.79.140.40;Bach Kim Network solutions Join stock company
 193.187.113.62;M247 Ltd
 93.115.4.242;HostRoyale Technologies Pvt Ltd
+138.255.144.169;SUMICITY TELECOMUNICACOES S.A.
 167.71.190.253;DIGITALOCEAN-ASN
 154.113.66.70;MAINONE
 171.243.48.138;Viettel Group
@@ -41396,6 +41403,7 @@ ip_address;autonomous_system
 206.204.29.106;HostRoyale Technologies Pvt Ltd
 92.27.99.150;TalkTalk
 178.171.65.73;M247 Ltd
+14.99.74.162;Tata Teleservices ISP AS
 118.175.228.114;TOT Public Company Limited
 45.161.115.254;SERVICIOS E INVERSIONES VILLASOLIS LTDA.
 101.108.155.71;TOT Public Company Limited
@@ -42435,6 +42443,7 @@ ip_address;autonomous_system
 193.193.232.56;astel Jsc
 94.46.206.134;HostRoyale Technologies Pvt Ltd
 186.216.213.26;CLICKNET BRASIL INFORMATICA E TELECOMUNICACOES LT
+95.172.44.186;OOO MediaSeti
 188.255.123.242;Rostelecom
 185.10.4.203;HostRoyale Technologies Pvt Ltd
 194.242.27.215;M247 Ltd
