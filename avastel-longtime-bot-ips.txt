@@ -1,5 +1,5 @@
 # Avastel long time infected IPs blocklist
-# Last update: Fri Apr 22 2022 00:00:21 GMT+0000 (Coordinated Universal Time)
+# Last update: Sat Apr 23 2022 00:00:28 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 0
 
 ip_address;num_days;autonomous_system
