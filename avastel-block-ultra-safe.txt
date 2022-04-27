@@ -1,14 +1,16 @@
 # Avastel ultra-safe blocklist
-# Last update: Mon Apr 25 2022 00:00:15 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 2560
+# Last update: Tue Apr 26 2022 00:00:15 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 3072
 
 178.171.65.0/24;M247 Ltd
+91.108.192.0/24;SIA Singularity Telecom
 178.171.44.0/24;M247 Ltd
 92.240.204.0/24;M247 Ltd
 178.171.46.0/24;M247 Ltd
 178.171.47.0/24;M247 Ltd
 178.171.45.0/24;M247 Ltd
 92.240.206.0/24;M247 Ltd
+91.108.193.0/24;SIA Singularity Telecom
 178.171.38.0/24;M247 Ltd
 92.240.207.0/24;M247 Ltd
 178.171.102.0/24;A.b Internet Solutions
