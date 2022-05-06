@@ -1,7 +1,8 @@
 # Avastel safe blocklist
-# Last update: Tue May 03 2022 00:02:10 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 5632
+# Last update: Thu May 05 2022 00:10:46 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 6656
 
+66.70.146.0/24;OVH SAS
 89.185.76.0/24;M247 Ltd
 91.108.192.0/24;SIA Singularity Telecom
 91.108.193.0/24;SIA Singularity Telecom
@@ -20,7 +21,10 @@
 178.171.65.0/24;M247 Ltd
 178.171.102.0/24;A.b Internet Solutions
 194.104.146.0/24;Misaka Network, Inc.
+194.114.137.0/24;Misaka Network, Inc.
 196.199.40.0/24;Orion Network Limited
+196.199.104.0/24;Orion Network Limited
+196.242.18.0/24;Packet Exchange Limited
 196.247.161.0/24;Orion Network Limited
 196.247.173.0/24;Packet Exchange Limited
 196.247.174.0/24;Packet Exchange Limited
