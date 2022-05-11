@@ -1,5 +1,5 @@
 # Avastel safe blocklist
-# Last update: Mon May 09 2022 00:00:27 GMT+0000 (Coordinated Universal Time)
+# Last update: Tue May 10 2022 00:00:24 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 7168
 
 66.70.146.0/24;OVH SAS
