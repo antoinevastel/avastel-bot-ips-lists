@@ -1,10 +1,18 @@
 # Avastel moderate blocklist
-# Last update: Fri May 13 2022 00:00:31 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 9728
+# Last update: Sat May 14 2022 00:00:28 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 11776
 
 23.230.32.0/24;EGIHOSTING
 23.230.40.0/24;EGIHOSTING
 23.230.96.0/24;EGIHOSTING
+38.74.9.0/24;SERVER-MANIA
+38.74.10.0/24;SERVER-MANIA
+38.74.11.0/24;SERVER-MANIA
+38.102.79.0/24;SERVER-MANIA
+45.141.216.0/24;Scalaxy B.V.
+45.141.217.0/24;Scalaxy B.V.
+45.141.218.0/24;Scalaxy B.V.
+45.141.219.0/24;Scalaxy B.V.
 66.70.146.0/24;OVH SAS
 89.185.76.0/24;M247 Ltd
 91.108.192.0/24;SIA Singularity Telecom
