@@ -1,7 +1,8 @@
 # Avastel moderate blocklist
-# Last update: Thu May 19 2022 00:00:35 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 10240
+# Last update: Fri May 20 2022 00:00:47 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 10496
 
+23.230.96.0/24;EGIHOSTING
 38.74.9.0/24;SERVER-MANIA
 38.74.10.0/24;SERVER-MANIA
 38.74.11.0/24;SERVER-MANIA
