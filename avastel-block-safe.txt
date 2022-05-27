@@ -1,6 +1,6 @@
 # Avastel safe blocklist
-# Last update: Wed May 25 2022 00:00:34 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 8192
+# Last update: Thu May 26 2022 00:00:33 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 8448
 
 38.74.9.0/24;SERVER-MANIA
 38.74.10.0/24;SERVER-MANIA
@@ -34,3 +34,4 @@
 196.247.161.0/24;Orion Network Limited
 196.247.173.0/24;Packet Exchange Limited
 196.247.174.0/24;Packet Exchange Limited
+196.247.175.0/24;Packet Exchange Limited
