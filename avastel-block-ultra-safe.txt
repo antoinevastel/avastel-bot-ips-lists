@@ -1,5 +1,5 @@
 # Avastel ultra-safe blocklist
-# Last update: Sun May 29 2022 00:00:36 GMT+0000 (Coordinated Universal Time)
+# Last update: Mon May 30 2022 00:00:34 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 7424
 
 38.74.9.0/24;SERVER-MANIA

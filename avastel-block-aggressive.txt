@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Sun May 29 2022 00:00:36 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 15360
+# Last update: Mon May 30 2022 00:00:34 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 14080
 
 23.230.32.0/24;EGIHOSTING
 23.230.40.0/24;EGIHOSTING
@@ -11,9 +11,7 @@
 38.102.79.0/24;SERVER-MANIA
 45.141.178.0/24;AS-BLAZINGSEO
 45.141.216.0/24;Scalaxy B.V.
-45.141.217.0/24;Scalaxy B.V.
 45.141.218.0/24;Scalaxy B.V.
-45.141.219.0/24;Scalaxy B.V.
 66.70.146.0/24;OVH SAS
 89.185.76.0/24;M247 Ltd
 91.108.192.0/24;SIA Singularity Telecom
@@ -50,9 +48,6 @@
 196.199.104.0/24;Orion Network Limited
 196.242.18.0/24;Packet Exchange Limited
 196.242.89.0/24;Orion Network Limited
-196.245.180.0/24;Orion Network Limited
-196.245.182.0/24;Orion Network Limited
-196.245.183.0/24;Orion Network Limited
 196.247.161.0/24;Orion Network Limited
 196.247.173.0/24;Packet Exchange Limited
 196.247.174.0/24;Packet Exchange Limited
