@@ -1,5 +1,5 @@
 # Avastel safe blocklist
-# Last update: Wed Jun 15 2022 00:00:38 GMT+0000 (Coordinated Universal Time)
+# Last update: Thu Jun 16 2022 00:00:45 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 12288
 
 23.230.32.0/24;EGIHOSTING
