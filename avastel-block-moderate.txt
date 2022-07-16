@@ -1,6 +1,6 @@
 # Avastel moderate blocklist
-# Last update: Thu Jul 14 2022 00:00:42 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 9984
+# Last update: Fri Jul 15 2022 00:00:38 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 7936
 
 23.230.32.0/24;EGIHOSTING
 23.230.40.0/24;EGIHOSTING
@@ -33,11 +33,3 @@
 194.104.145.0/24;Misaka Network, Inc.
 194.104.146.0/24;Misaka Network, Inc.
 194.114.137.0/24;Misaka Network, Inc.
-196.199.40.0/24;Orion Network Limited
-196.242.18.0/24;Packet Exchange Limited
-196.245.181.0/24;Orion Network Limited
-196.245.182.0/24;Orion Network Limited
-196.245.183.0/24;Orion Network Limited
-196.247.174.0/24;Packet Exchange Limited
-196.247.175.0/24;Packet Exchange Limited
-213.139.66.0/24;10XCOM
