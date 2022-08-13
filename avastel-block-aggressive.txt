@@ -1,5 +1,5 @@
 # Avastel aggressive blocklist
-# Last update: Thu Aug 11 2022 00:00:55 GMT+0000 (Coordinated Universal Time)
+# Last update: Fri Aug 12 2022 00:00:46 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 9728
 
 23.230.32.0/24;EGIHOSTING
