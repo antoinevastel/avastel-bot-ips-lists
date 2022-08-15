@@ -1,15 +1,12 @@
 # Avastel ultra-safe blocklist
-# Last update: Sat Aug 13 2022 00:00:59 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 5632
+# Last update: Sun Aug 14 2022 00:00:50 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 4864
 
-23.230.96.0/24;EGIHOSTING
 91.108.192.0/24;SIA Singularity Telecom
 91.108.193.0/24;SIA Singularity Telecom
 92.240.204.0/24;M247 Ltd
 92.240.206.0/24;M247 Ltd
 92.240.207.0/24;M247 Ltd
-107.165.238.0/24;EGIHOSTING
-107.186.238.0/24;EGIHOSTING
 108.165.232.0/24;Digital Energy Technologies Ltd.
 108.165.233.0/24;Digital Energy Technologies Ltd.
 172.121.255.0/24;EGIHOSTING
