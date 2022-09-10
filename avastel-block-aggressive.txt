@@ -1,5 +1,5 @@
 # Avastel aggressive blocklist
-# Last update: Thu Sep 08 2022 00:01:19 GMT+0000 (Coordinated Universal Time)
+# Last update: Fri Sep 09 2022 00:01:04 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 9984
 
 23.128.248.0/24;
