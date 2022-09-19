@@ -1,5 +1,5 @@
 # Avastel moderate blocklist
-# Last update: Sat Sep 17 2022 00:01:00 GMT+0000 (Coordinated Universal Time)
+# Last update: Sun Sep 18 2022 00:01:06 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 8448
 
 23.230.32.0/24;EGIHOSTING
