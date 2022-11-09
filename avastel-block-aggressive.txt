@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Mon Nov 07 2022 00:00:29 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 5376
+# Last update: Tue Nov 08 2022 00:00:29 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 5120
 
 23.230.32.0/24;EGIHOSTING
 23.230.40.0/24;EGIHOSTING
@@ -18,7 +18,6 @@
 172.121.255.0/24;EGIHOSTING
 185.220.101.0/24;Cia Triad Security LLC
 192.177.98.0/24;EGIHOSTING
-192.241.217.0/24;DIGITALOCEAN-ASN
 194.53.140.0/24;Digital Energy Technologies Ltd.
 194.104.145.0/24;Misaka Network, Inc.
 194.104.146.0/24;Misaka Network, Inc.
