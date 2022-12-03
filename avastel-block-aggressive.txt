@@ -1,6 +1,6 @@
 # Avastel aggressive blocklist
-# Last update: Thu Dec 01 2022 00:00:33 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 11776
+# Last update: Fri Dec 02 2022 00:00:37 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 12032
 
 23.230.32.0/24;EGIHOSTING
 23.230.40.0/24;EGIHOSTING
@@ -29,6 +29,7 @@
 144.168.218.0/24;SERVER-MANIA
 158.46.181.0/24;A.b Internet Solutions
 170.247.220.0/24;My Tech
+170.247.222.0/24;My Tech
 172.121.255.0/24;EGIHOSTING
 178.171.38.0/24;M247 Ltd
 178.171.44.0/24;M247 Ltd
