@@ -1,5 +1,5 @@
 # Avastel ultra-safe blocklist
-# Last update: Sat Feb 04 2023 00:00:22 GMT+0000 (Coordinated Universal Time)
+# Last update: Sun Feb 05 2023 00:00:24 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 256
 
 91.108.192.0/24;SIA Singularity Telecom
