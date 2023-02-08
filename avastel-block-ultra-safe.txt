@@ -1,4 +1,5 @@
 # Avastel ultra-safe blocklist
-# Last update: Mon Feb 06 2023 00:00:22 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 0
+# Last update: Tue Feb 07 2023 00:00:19 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 256
 
+172.121.255.0/24;EGIHOSTING
