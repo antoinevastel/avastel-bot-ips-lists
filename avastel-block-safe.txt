@@ -1,9 +1,9 @@
 # Avastel safe blocklist
-# Last update: Tue Mar 21 2023 00:00:20 GMT+0000 (Coordinated Universal Time)
+# Last update: Wed Mar 22 2023 00:00:21 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 1280
 
 64.62.197.0/24;HURRICANE
+91.108.193.0/24;SIA Singularity Telecom
 91.108.194.0/24;SIA Singularity Telecom
 162.158.86.0/24;CLOUDFLARENET
 172.121.255.0/24;EGIHOSTING
-192.177.98.0/24;EGIHOSTING
