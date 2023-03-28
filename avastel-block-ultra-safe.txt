@@ -1,4 +1,4 @@
 # Avastel ultra-safe blocklist
-# Last update: Sun Mar 26 2023 00:00:28 GMT+0000 (Coordinated Universal Time)
+# Last update: Mon Mar 27 2023 00:00:21 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 0
 
