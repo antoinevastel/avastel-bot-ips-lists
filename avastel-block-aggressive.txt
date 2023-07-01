@@ -1,11 +1,12 @@
 # Avastel aggressive blocklist
-# Last update: Thu Jun 29 2023 00:00:22 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 2816
+# Last update: Fri Jun 30 2023 00:00:21 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 3072
 
 23.161.145.0/24;
 64.62.197.0/24;HURRICANE
 66.70.146.0/24;OVH SAS
 66.118.5.0/24;ATT-INTERNET4
+107.186.238.0/24;EGIHOSTING
 136.175.195.0/24;ATT-INTERNET4
 172.121.255.0/24;EGIHOSTING
 192.177.98.0/24;EGIHOSTING
