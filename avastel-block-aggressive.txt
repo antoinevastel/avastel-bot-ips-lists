@@ -1,11 +1,11 @@
 # Avastel aggressive blocklist
-# Last update: Tue Aug 22 2023 00:00:18 GMT+0000 (Coordinated Universal Time)
+# Last update: Wed Aug 23 2023 00:00:17 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 1792
 
 64.62.197.0/24;HURRICANE
 111.225.152.0/24;Chinanet
 111.225.153.0/24;Chinanet
-123.182.59.0/24;Chinanet
 172.70.85.0/24;CLOUDFLARENET
+172.70.162.0/24;CLOUDFLARENET
 198.235.24.0/24;
 205.210.31.0/24;
