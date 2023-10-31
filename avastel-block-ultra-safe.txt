@@ -1,7 +1,8 @@
 # Avastel ultra-safe blocklist
-# Last update: Sun Oct 29 2023 00:00:17 GMT+0000 (Coordinated Universal Time)
-# Number IPs blocked: 3072
+# Last update: Mon Oct 30 2023 00:00:16 GMT+0000 (Coordinated Universal Time)
+# Number IPs blocked: 3328
 
+64.62.197.0/24;HURRICANE
 89.185.76.0/24;M247 Ltd
 92.240.204.0/24;M247 Ltd
 92.240.206.0/24;M247 Ltd
