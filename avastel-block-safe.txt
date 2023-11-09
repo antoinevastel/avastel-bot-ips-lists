@@ -1,5 +1,5 @@
 # Avastel safe blocklist
-# Last update: Tue Nov 07 2023 00:00:20 GMT+0000 (Coordinated Universal Time)
+# Last update: Wed Nov 08 2023 00:00:16 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 1024
 
 64.62.197.0/24;HURRICANE
