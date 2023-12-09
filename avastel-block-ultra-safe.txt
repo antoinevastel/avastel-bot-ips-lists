@@ -1,5 +1,5 @@
 # Avastel ultra-safe blocklist
-# Last update: Thu Dec 07 2023 00:00:17 GMT+0000 (Coordinated Universal Time)
+# Last update: Fri Dec 08 2023 00:00:17 GMT+0000 (Coordinated Universal Time)
 # Number IPs blocked: 512
 
 198.235.24.0/24;
