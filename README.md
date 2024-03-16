@@ -1,4 +1,11 @@
-# avastel-bot-ips-lists
+# avastel-bot-ips-lists [Deprecated]
+## News:
+
+I won't continue to maintain these IP lists.
+Instead, I recently created a [website where you can see your browser fingerprint](https://deviceandbrowserinfo.com/info_device) and different fingerprinting-related signals like your IP address, your canvas fingerprint, your HTTP headers, etc. Some information is accessible both through a webpage and through APIs. Don't hesitate to bookmark it as I will add more signals and more content related to bots.
+
+
+-----------
 
 Github repository hosting my different bot IPs blocklists.
 You can find more details regarding how these lists are built in these two blog posts:
