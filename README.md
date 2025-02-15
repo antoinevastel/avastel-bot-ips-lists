@@ -1,23 +1,38 @@
-# avastel-bot-ips-lists [Deprecated]
-## News:
+# Avastel Proxy Bot IPs Lists
 
-I won't continue to maintain these IP lists.
-Instead, I recently created a [website where you can see your browser fingerprint](https://deviceandbrowserinfo.com/info_device) and different fingerprinting-related signals like your IP address, your canvas fingerprint, your HTTP headers, etc. Some information is accessible both through a webpage and through APIs. Don't hesitate to bookmark it as I will add more signals and more content related to bots.
+## News
+
+The project is active again, the lists are updated daily!
+For the moment, I expose only 3 proxy bot IPs lists:
+- 1 day proxy bots IPs: [avastel-proxy-bot-ips-blocklist-1day.txt](https://github.com/antoinevastel/avastel-proxy-bot-ips-lists/blob/main/avastel-proxy-bot-ips-blocklist-1day.txt)
+- 5 days proxy bots IPs block list: [avastel-proxy-bot-ips-blocklist-5days.txt](https://github.com/antoinevastel/avastel-proxy-bot-ips-lists/blob/main/avastel-proxy-bot-ips-blocklist-5days.txt)
+- 8 days proxy bots IPs blocklist: [avastel-proxy-bot-ips-blocklist-8days.txt](https://github.com/antoinevastel/avastel-proxy-bot-ips-lists/blob/main/avastel-proxy-bot-ips-blocklist-8days.txt)
 
 
------------
 
-Github repository hosting my different bot IPs blocklists.
-You can find more details regarding how these lists are built in these two blog posts:
-- [For avastel block ultra-safe/safe/moderate/aggressive](http://antoinevastel.com/bot/2021/10/31/blocking-lists-ips.html);
-- [For avastel long time infected IPs](http://antoinevastel.com/bot/2021/11/02/longtime-ip-block-list.html);
+## How to use these lists?
 
-Blocklists are **updated daily.**
+The 1 day proxy bots IPs **IS NOT** a block list. It is a sample of proxy IP addresses observed in the last 24 hours.
+These IPs have been verified, which means I guarantee that they have been used as proxies within the last 24 hours.
+However, these may be shared IP addresses used by human users and bots. 
+You should not probably block these IPs since it may impact your users experience.
+However, you can use it to build your own bot detection/fraud detection logic.
 
-You can also download them on my website:
-- [Avastel ultra-safe blocklist](https://antoinevastel.com/data/avastel-block-ultra-safe.txt)
-- [Avastel safe blocklist](https://antoinevastel.com/data/avastel-block-safe.txt)
-- [Avastel moderate blocklist](https://antoinevastel.com/data/avastel-block-moderate.txt)
-- [Avastel aggressive blocklist](https://antoinevastel.com/data/avastel-block-aggressive.txt)
-- [Avastel long time infected IPs blocklist](https://antoinevastel.com/data/avastel-longtime-bot-ips.txt)
-- [Avastel all infected IPs last 7 days](https://antoinevastel.com/data/avastel-ips-7d.txt)
+The 5 days and 8 days proxy bots IPs blocklists **ARE** blocklists. 
+These two lists are updated daily and computed on proxy IPs observed in the last 5 and 8 days.
+I only include IP ranges that have a high chance of being used by bots.
+For each IP range, I include a confidence score.
+A score of 1 means that it's perfectly safe to block this IP range, while a lower score means that it's more risky to block the whole range.
+
+## Looking for more bot IPs data?
+These proxy IP lists of this project contain only a sample of the proxy bot IPs I observe.
+I created a curated database of bot proxy IP addresses, updated continuously.
+Learm more about [the proxy detection database]([https://github.com/antoinevastel/bot-ip-data](https://deviceandbrowserinfo.com/product/proxies-ips)).
+
+The free plan enables you to get access to the latest 20K distinct proxy IPs, updated every 6 hours.
+
+We also offer a paid plan with a much larger number of IPs, updated every 2 hours:
+- Pro plan: 50K distinct IPs, updated every 2 hours;
+- Business plan: all proxy IPs from the last 3 days, updated every 2 hours;
+- Reseller plan: all proxy IPs from the last 7 days, updated every 2 hours;
+
