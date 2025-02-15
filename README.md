@@ -4,9 +4,9 @@
 
 The project is active again, the lists are updated daily!
 For the moment, I expose only 3 proxy bot IPs lists:
-- 1 day proxy bots IPs: [avastel-proxy-bot-ips-blocklist-1day.txt](https://github.com/antoinevastel/avastel-proxy-bot-ips-lists/blob/main/avastel-proxy-bot-ips-blocklist-1day.txt)
-- 5 days proxy bots IPs block list: [avastel-proxy-bot-ips-blocklist-5days.txt](https://github.com/antoinevastel/avastel-proxy-bot-ips-lists/blob/main/avastel-proxy-bot-ips-blocklist-5days.txt)
-- 8 days proxy bots IPs blocklist: [avastel-proxy-bot-ips-blocklist-8days.txt](https://github.com/antoinevastel/avastel-proxy-bot-ips-lists/blob/main/avastel-proxy-bot-ips-blocklist-8days.txt)
+- 1 day proxy bots IPs: [avastel-proxy-bot-ips-blocklist-1day.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-1day.txt)
+- 5 days proxy bots IPs block list: [avastel-proxy-bot-ips-blocklist-5days.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-blocklist-5days.txt)
+- 8 days proxy bots IPs blocklist: [avastel-proxy-bot-ips-blocklist-8days.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-blocklist-8days.txt)
 
 
 
