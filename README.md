@@ -27,11 +27,11 @@ A score of 1 means that it's perfectly safe to block this IP range, while a lowe
 ## Looking for more bot IPs data?
 These proxy IP lists of this project contain only a sample of the proxy bot IPs I observe.
 I created a curated database of bot proxy IP addresses, updated continuously.
-Learm more about [the proxy detection database]([https://github.com/antoinevastel/bot-ip-data](https://deviceandbrowserinfo.com/product/proxies-ips)).
+Learn more about [the proxy detection database](https://deviceandbrowserinfo.com/product/proxies-ips).
 
 The free plan enables you to get access to the latest 20K distinct proxy IPs, updated every 6 hours.
 
-We also offer a paid plan with a much larger number of IPs, updated every 2 hours:
+We also offer paid plans with a much larger number of proxy IPs, updated every 2 hours:
 - Pro plan: 50K distinct IPs, updated every 2 hours;
 - Business plan: all proxy IPs from the last 3 days, updated every 2 hours;
 - Reseller plan: all proxy IPs from the last 7 days, updated every 2 hours;
