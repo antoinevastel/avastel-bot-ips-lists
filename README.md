@@ -1,38 +1,69 @@
 # Avastel Proxy Bot IPs Lists
 
-## News
+## Overview
 
-The project is active again, the lists are updated daily!
-For the moment, I expose only 3 proxy bot IPs lists:
-- 1 day proxy bots IPs: [avastel-proxy-bot-ips-blocklist-1day.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-1day.txt)
-- 5 days proxy bots IPs block list: [avastel-proxy-bot-ips-blocklist-5days.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-blocklist-5days.txt)
-- 8 days proxy bots IPs blocklist: [avastel-proxy-bot-ips-blocklist-8days.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-blocklist-8days.txt)
+This repository provides free, regularly updated lists of IP addresses associated with proxy infrastructure commonly used by bots.  
+All lists are updated **daily**.
+
+Three different lists are available:
+
+- **1 day proxy bot IPs**: [avastel-proxy-bot-ips-1day.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-1day.txt)
+- **5 days proxy bot IPs blocklist**: [avastel-proxy-bot-ips-blocklist-5days.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-blocklist-5days.txt)
+- **8 days proxy bot IPs blocklist**: [avastel-proxy-bot-ips-blocklist-8days.txt](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/avastel-proxy-bot-ips-blocklist-8days.txt)
+
+Each list is designed to help developers, fraud analysts, and security researchers detect and mitigate automated traffic more effectively.
 
 
+## How to use these lists
+### 1 day proxy bot IPs
 
-## How to use these lists?
+- A **daily sample** of proxy IPs observed in the last 24 hours.
+- All IPs are **verified** as having been used as proxies.
+- **Caution**: These may be shared IPs and should not be directly blocked.
+- Recommended usage: **risk scoring**, **secondary fraud signals**, or **bot behavior enrichment**.
 
-The 1 day proxy bots IPs **IS NOT** a block list. It is a sample of proxy IP addresses observed in the last 24 hours.
-These IPs have been verified, which means I guarantee that they have been used as proxies within the last 24 hours.
-However, these may be shared IP addresses used by human users and bots. 
-You should not probably block these IPs since it may impact your users experience.
-However, you can use it to build your own bot detection/fraud detection logic.
+### 5 days and 8 days proxy bot IPs blocklists
 
-The 5 days and 8 days proxy bots IPs blocklists **ARE** blocklists. 
-These two lists are updated daily and computed on proxy IPs observed in the last 5 and 8 days.
-I only include IP ranges that have a high chance of being used by bots.
-For each IP range, I include a confidence score.
-A score of 1 means that it's perfectly safe to block this IP range, while a lower score means that it's more risky to block the whole range.
+- **Blocklists** based on IPs observed over the past 5 and 8 days, respectively.
+- IPs are aggregated into **ranges** with an associated **confidence score**:
+  - **Score 1**: very high confidence, safe to block.
+  - **Lower scores**: potential for human users mixed in (use with caution).
+- Recommended usage: **direct blocking** based on confidence scores or **layered detection strategies**.
 
-## Looking for more bot IPs data?
-These proxy IP lists of this project contain only a sample of the proxy bot IPs I observe.
-I created a curated database of bot proxy IP addresses, updated continuously.
-Learn more about [the proxy detection database](https://deviceandbrowserinfo.com/product/proxies-ips).
 
-The free plan enables you to get access to the latest 20K distinct proxy IPs, updated every 6 hours.
+## About the data
 
-We also offer paid plans with a much larger number of proxy IPs, updated every 2 hours:
-- Pro plan: 50K distinct IPs, updated every 2 hours;
-- Business plan: all proxy IPs from the last 3 days, updated every 2 hours;
-- Reseller plan: all proxy IPs from the last 7 days, updated every 2 hours;
+The proxy IPs included in these lists come from my own detection systems.  
+I do **not rely on any third-party datasets**.
+
+Data sources include:
+- Residential proxies
+- Data center proxies
+- ISP proxies
+- Free proxy servers
+
+All IPs are **independently verified** to ensure they were actively functioning as proxies at the time of collection.
+
+
+## Access to a larger proxy IP database
+
+This open source project offers a reliable starting point, covering **more than 200,000 IPs**, updated daily.
+
+For teams or businesses needing:
+- **More frequent updates** (every 2 hours),
+- **Access to a broader proxy dataset** (over 3 million active proxy IPs),
+- **Extended history** (up to 30 days of proxy activity),
+
+you can learn more about the larger [proxy detection database](https://deviceandbrowserinfo.com/product/proxies-ips).
+
+A **free plan** is available, and access to the full database can be arranged for evaluation on request.
+
+
+## License
+
+The data in this repository is released under the [MIT License](https://github.com/antoinevastel/avastel-bot-ips-lists/blob/master/LICENSE).
+
+You are free to use it in any project, including commercial projects.  
+If you find the project useful, adding a link back to this repository is appreciated.
+
 
