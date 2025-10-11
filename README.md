@@ -1,5 +1,11 @@
 # Avastel Proxy Bot IPs Lists
 
+> ## 🚨 News  
+> You can now **search and look up proxy IP addresses for free** using the new [Proxy IP Lookup UI](https://deviceandbrowserinfo.com/data/ips/proxies/search).  
+> It provides **manual access to the full 15M+ proxy IP database** collected over the last 30 days — with **no quota or login required** for human users.  
+> Use it to quickly check if an IP was recently active as a proxy, or to explore proxy infrastructure patterns interactively.
+
+
 ## Overview
 
 This repository provides free, regularly updated lists of IP addresses associated with proxy infrastructure commonly used by bots.  
@@ -51,7 +57,7 @@ This open source project offers a reliable starting point, covering **more than 
 
 For teams or businesses needing:
 - **More frequent updates** (every 2 hours),
-- **Access to a broader proxy dataset** (over 3 million active proxy IPs),
+- **Access to a broader proxy dataset** (over 15 million active proxy IPs),
 - **Extended history** (up to 30 days of proxy activity),
 
 you can learn more about the larger [proxy detection database](https://deviceandbrowserinfo.com/product/proxies-ips).
