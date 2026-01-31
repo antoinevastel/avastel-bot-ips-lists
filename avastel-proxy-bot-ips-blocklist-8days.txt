@@ -1,5 +1,5 @@
 # Avastel 8 day proxy bots IPs blocklist 
-# Last update: 2026-01-31 11:24:20.246392
+# Last update: 2026-01-31 11:29:53.775436
 # Number of proxy IP CIDRs: 300, equivalent to 109056 IPs
 
 ip_address;autonomous_system;confidence
