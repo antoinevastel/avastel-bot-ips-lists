@@ -1,305 +1,305 @@
 # Avastel 8 day proxy bots IPs blocklist 
-# Last update: 2026-02-04 01:00:54.866621
+# Last update: 2026-02-05 01:00:54.069072
 # Number of proxy IP CIDRs: 300, equivalent to 105216 IPs
 
 ip_address;autonomous_system;confidence
-195.60.238.0/24;Internet Resources Management SRL;1.0
-195.133.208.0/23;The Constant Company, LLC;1.0
-142.111.129.0/24;M247 Europe SRL;1.0
-82.23.37.0/24;Datacamp Limited;1.0
-82.23.36.0/24;Latitude.sh LTDA;1.0
-82.23.35.0/24;Latitude.sh LTDA;1.0
-199.89.230.0/24;Rocks Computer Services, LLC;1.0
-82.23.21.0/24;Datacamp Limited;1.0
-82.24.215.0/24;Datacamp Limited;1.0
-82.22.212.0/24;Datacamp Limited;1.0
-185.77.250.0/23;The Constant Company, LLC;1.0
-213.159.10.0/23;The Constant Company, LLC;1.0
-213.159.12.0/23;The Constant Company, LLC;1.0
-85.254.103.0/24;UAB Bite Lietuva;1.0
-82.23.17.0/24;Datacamp Limited;1.0
-85.209.217.0/24;Datacamp Limited;1.0
-185.45.95.0/24;Datacamp Limited;1.0
-140.99.215.0/24;Datacamp Limited;1.0
-45.117.53.0/24;Datacamp Limited;1.0
-45.123.145.0/24;Datacamp Limited;1.0
 103.190.40.0/23;DISH MEDIA NETWORK PUBLIC LIMITED;1.0
-85.254.59.0/24;UAB Bite Lietuva;1.0
-5.175.146.0/23;Super Cell Network For Internet Services Ltd;1.0
-154.37.79.0/24;QuickPacket, LLC;1.0
-154.29.12.0/24;QuickPacket, LLC;1.0
 63.143.93.0/24;Digicel Jamaica;1.0
-136.0.202.0/24;M247 Europe SRL;1.0
-154.17.105.0/24;QuickPacket, LLC;1.0
-154.159.254.0/24;AIRTEL;1.0
-45.39.142.0/24;Psychz Networks;1.0
-45.38.186.0/24;Psychz Networks;1.0
-45.38.240.0/24;Psychz Networks;1.0
-170.199.226.0/24;Charter Communications Inc;1.0
-45.134.139.0/24;Mod Mission Critical LLC;1.0
 193.46.204.0/24;The Constant Company, LLC;1.0
+102.217.240.0/22;NET99;1.0
+50.114.101.0/24;M247 Europe SRL;1.0
+170.199.226.0/24;Charter Communications Inc;1.0
+168.235.148.0/24;B2 Net Solutions Inc.;1.0
+185.169.3.0/24;TerraTransit AG;1.0
+185.201.160.0/22;TerraTransit AG;1.0
+108.165.207.0/24;M247 Europe SRL;1.0
+82.21.70.0/24;Datacamp Limited;1.0
 194.135.132.0/23;The Constant Company, LLC;1.0
+85.254.137.0/24;UAB Bite Lietuva;1.0
+91.231.183.0/24;Internet Resources Management SRL;1.0
+23.95.156.0/23;HostPapa;1.0
+85.254.59.0/24;UAB Bite Lietuva;1.0
+85.209.217.0/24;Datacamp Limited;1.0
+154.17.150.0/24;QuickPacket, LLC;1.0
+154.29.12.0/24;QuickPacket, LLC;1.0
+151.245.177.0/24;Sprious LLC;1.0
+151.245.166.0/24;Sprious LLC;1.0
+45.117.53.0/24;Datacamp Limited;1.0
+85.122.60.0/23;Internet Resources Management SRL;1.0
+216.158.207.0/24;Datacamp Limited;1.0
+213.159.12.0/23;The Constant Company, LLC;1.0
+213.159.10.0/23;The Constant Company, LLC;1.0
+82.24.215.0/24;Datacamp Limited;1.0
+82.23.34.0/24;Trunk Networks LTD;1.0
+82.23.30.0/23;Trunk Networks LTD;1.0
+82.23.217.0/24;Datacamp Limited;1.0
+5.175.146.0/23;Super Cell Network For Internet Services Ltd;1.0
+130.44.200.0/24;Charter Communications Inc;1.0
+195.128.178.0/24;Mod Mission Critical LLC;1.0
+195.133.208.0/23;The Constant Company, LLC;1.0
 84.54.34.0/24;Internet Resources Management SRL;1.0
-154.7.227.0/24;QuickPacket, LLC;1.0
-102.217.240.0/22;NET99;0.95
-82.23.32.0/23;Latitude.sh LTDA;0.95
-23.95.156.0/23;HostPapa;0.95
-82.23.49.0/24;Trunk Networks LTD;0.95
-185.202.156.0/22;TerraTransit AG;0.95
-82.23.40.0/24;Latitude.sh LTDA;0.95
-204.217.207.0/24;Datacamp Limited;0.95
-82.23.22.0/24;Datacamp Limited;0.95
-82.23.38.0/24;Datacamp Limited;0.95
-147.53.122.0/24;Charter Communications Inc;0.95
-45.38.179.0/24;Psychz Networks;0.95
-23.26.230.0/24;M247 Europe SRL;0.95
-82.23.16.0/24;Trunk Networks LTD;0.95
-185.200.136.0/22;TerraTransit AG;0.95
-82.23.26.0/23;Latitude.sh LTDA;0.95
-199.115.195.0/24;M247 Europe SRL;0.95
-85.122.60.0/23;Internet Resources Management SRL;0.95
-195.128.178.0/24;Mod Mission Critical LLC;0.95
-151.242.45.0/24;Datacamp Limited;0.95
-151.245.162.0/24;Sprious LLC;0.95
-154.37.82.0/24;QuickPacket, LLC;0.95
-130.44.202.0/24;Charter Communications Inc;0.95
-63.143.116.0/24;Digicel Jamaica;0.95
-154.29.9.0/24;QuickPacket, LLC;0.95
-172.84.184.0/22;Psychz Networks;0.95
-82.21.68.0/24;Datacamp Limited;0.95
-173.199.253.0/24;Hotwire Communications;0.95
-45.38.185.0/24;Psychz Networks;0.95
-82.21.56.0/24;Datacamp Limited;0.95
-185.169.3.0/24;TerraTransit AG;0.95
-85.254.30.0/24;UAB Bite Lietuva;0.95
-85.254.137.0/24;UAB Bite Lietuva;0.95
-89.208.180.0/22;Colocation America Corporation;0.95
-82.21.59.0/24;Datacamp Limited;0.95
-119.63.138.0/24;Trans World Enterprise Services Private Limited;0.95
-45.39.141.0/24;Psychz Networks;0.95
-45.95.220.0/22;Internet Resources Management SRL;0.95
-185.193.80.0/22;TerraTransit AG;0.95
-185.206.220.0/22;Colocation America Corporation;0.95
-198.232.12.0/23;JARM TELECOMUNICACIONES SRL;0.95
-69.160.102.0/23;Digicel Jamaica;0.95
-170.199.228.0/23;Charter Communications Inc;0.95
+82.23.36.0/24;Latitude.sh LTDA;1.0
+82.23.17.0/24;Datacamp Limited;1.0
+82.23.37.0/24;Datacamp Limited;1.0
+82.23.49.0/24;Trunk Networks LTD;1.0
+82.21.59.0/24;Datacamp Limited;1.0
+82.21.56.0/24;Datacamp Limited;1.0
+45.134.139.0/24;Mod Mission Critical LLC;1.0
+82.22.212.0/24;Datacamp Limited;1.0
+142.111.129.0/24;M247 Europe SRL;1.0
+45.39.141.0/24;Psychz Networks;1.0
+45.39.142.0/24;Psychz Networks;1.0
+209.242.221.0/24;HostRoyale Technologies Pvt Ltd;1.0
+205.186.66.0/24;M247 Europe SRL;1.0
+204.217.207.0/24;Datacamp Limited;1.0
+45.38.240.0/24;Psychz Networks;1.0
+185.202.156.0/22;TerraTransit AG;1.0
+199.115.195.0/24;M247 Europe SRL;1.0
+45.38.185.0/24;Psychz Networks;1.0
+45.38.186.0/24;Psychz Networks;1.0
+185.77.250.0/23;The Constant Company, LLC;1.0
+82.21.211.0/24;Datacamp Limited;1.0
 185.196.108.0/22;TerraTransit AG;0.95
-185.201.160.0/22;TerraTransit AG;0.95
-141.98.140.0/22;Vodafone Albania Sh.A.;0.95
+185.200.136.0/22;TerraTransit AG;0.95
+69.160.102.0/23;Digicel Jamaica;0.95
+89.208.52.0/22;Colocation America Corporation;0.95
+92.38.208.0/22;Colocation America Corporation;0.95
+185.193.80.0/22;TerraTransit AG;0.95
+166.0.140.0/24;M247 Europe SRL;0.95
+45.38.246.0/24;Psychz Networks;0.95
+72.14.93.0/24;Blazing SEO, LLC;0.95
+45.38.255.0/24;Psychz Networks;0.95
+195.60.238.0/24;Internet Resources Management SRL;0.95
+172.84.184.0/22;Psychz Networks;0.95
+82.23.26.0/23;Latitude.sh LTDA;0.95
+173.199.253.0/24;Hotwire Communications;0.95
+136.0.202.0/24;M247 Europe SRL;0.95
+140.99.215.0/24;Datacamp Limited;0.95
+149.18.8.0/22;Atlas Networks Corporation;0.95
+198.232.12.0/23;JARM TELECOMUNICACIONES SRL;0.95
+45.38.179.0/24;Psychz Networks;0.95
+185.51.122.0/24;Internet Resources Management SRL;0.95
+185.45.95.0/24;Datacamp Limited;0.95
+141.164.85.0/24;Blazing SEO, LLC;0.95
+82.21.68.0/24;Datacamp Limited;0.95
+82.23.18.0/24;Datacamp Limited;0.95
+82.23.21.0/24;Datacamp Limited;0.95
+82.23.16.0/24;Trunk Networks LTD;0.95
+95.163.148.0/22;Colocation America Corporation;0.95
+82.23.32.0/23;Latitude.sh LTDA;0.95
 213.219.252.0/22;Colocation America Corporation;0.95
 82.23.29.0/24;Latitude.sh LTDA;0.95
-82.23.34.0/24;Trunk Networks LTD;0.95
-64.137.58.0/23;Datacamp Limited;0.95
-89.208.52.0/22;Colocation America Corporation;0.95
-185.51.122.0/24;Internet Resources Management SRL;0.95
-82.21.70.0/24;Datacamp Limited;0.95
-147.53.120.0/24;Blazing SEO, LLC;0.95
-108.165.143.0/24;Zenlayer Inc;0.95
-147.79.2.0/24;Sprious LLC;0.95
-205.186.66.0/24;M247 Europe SRL;0.95
-82.23.30.0/23;Trunk Networks LTD;0.95
-108.165.207.0/24;M247 Europe SRL;0.95
-82.23.217.0/24;Datacamp Limited;0.95
-194.127.110.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
-194.127.108.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
-92.119.63.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
-45.143.30.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
-92.38.208.0/22;Colocation America Corporation;0.95
-72.14.93.0/24;Blazing SEO, LLC;0.95
-166.0.140.0/24;M247 Europe SRL;0.95
-172.99.20.0/24;Bunny Communications;0.95
-45.38.255.0/24;Psychz Networks;0.95
-82.21.211.0/24;Datacamp Limited;0.95
-45.143.29.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
-50.114.101.0/24;M247 Europe SRL;0.95
-130.44.201.0/24;Blazing SEO, LLC;0.95
-91.231.183.0/24;Internet Resources Management SRL;0.95
-151.245.177.0/24;Sprious LLC;0.95
-130.44.200.0/24;Charter Communications Inc;0.95
-170.199.224.0/23;Charter Communications Inc;0.95
-185.244.152.0/22;Kurdistan Net Company for Computer and Internet Ltd.;0.95
-203.100.212.0/22;Rachamim Aviel Twito;0.95
-95.163.148.0/22;Colocation America Corporation;0.95
-102.213.132.0/22;NET99;0.95
-96.62.19.0/24;IOVZ NETWORKS INC;0.95
-194.49.87.0/24;Super Cell Network For Internet Services Ltd;0.95
-103.92.145.0/24;Bunny Communications;0.95
+82.23.22.0/24;Datacamp Limited;0.95
+154.37.79.0/24;QuickPacket, LLC;0.95
+85.254.103.0/24;UAB Bite Lietuva;0.95
+154.7.227.0/24;QuickPacket, LLC;0.95
+23.26.230.0/24;M247 Europe SRL;0.95
+154.29.9.0/24;QuickPacket, LLC;0.95
+154.37.82.0/24;QuickPacket, LLC;0.95
+154.17.105.0/24;QuickPacket, LLC;0.95
+85.254.30.0/24;UAB Bite Lietuva;0.95
 195.128.162.0/24;Mod Mission Critical LLC;0.95
-193.142.22.0/24;BUNNY TECHNOLOGY LLC;0.95
-83.171.206.0/23;Super Cell Network For Internet Services Ltd;0.95
-84.32.225.0/24;Bunny Communications;0.95
-194.32.120.0/24;UK Dedicated Servers Limited;0.95
-136.0.71.0/24;Allstream Business US, LLC;0.95
-109.121.40.0/24;Charter Communications Inc;0.95
-109.121.43.0/24;Charter Communications Inc;0.95
-95.135.189.0/24;BUNNY TECHNOLOGY LLC;0.95
-69.33.118.0/24;Zenlayer Inc;0.95
-151.242.60.0/24;Bunny Communications;0.95
-136.0.168.0/24;Allstream Business US, LLC;0.95
-136.0.174.0/24;Allstream Business US, LLC;0.95
-151.245.166.0/24;Sprious LLC;0.95
-216.158.207.0/24;Datacamp Limited;0.95
-50.114.60.0/24;Zenlayer Inc;0.95
-142.111.236.0/24;Allstream Business US, LLC;0.95
-185.13.226.0/24;GLOBAL COMMUNICATION NETWORK LIMITED;0.95
-154.17.150.0/24;QuickPacket, LLC;0.95
-108.165.75.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
-82.153.215.0/24;BUNNY TECHNOLOGY LLC;0.95
-209.242.221.0/24;HostRoyale Technologies Pvt Ltd;0.95
-142.111.63.0/24;Allstream Business US, LLC;0.95
-102.129.244.0/24;Charter Communications Inc;0.95
-102.129.82.0/24;CongoTelecom;0.95
-45.38.246.0/24;Psychz Networks;0.95
-136.0.143.0/24;Allstream Business US, LLC;0.95
-66.93.56.0/24;Zenlayer Inc;0.95
-136.0.140.0/24;Allstream Business US, LLC;0.95
-136.0.31.0/24;Allstream Business US, LLC;0.95
-185.194.8.0/24;Horizon Scope Mobile Telecom WLL;0.95
-89.213.139.0/24;BUNNY TECHNOLOGY LLC;0.95
-138.229.96.0/24;Charter Communications Inc;0.95
-166.0.249.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
-168.93.220.0/24;Allstream Business US, LLC;0.95
-45.86.203.0/24;UK Dedicated Servers Limited;0.95
-82.23.18.0/24;Datacamp Limited;0.95
-89.116.150.0/24;Bunny Communications;0.95
-150.241.162.0/24;IOVZ NETWORKS INC;0.95
-155.229.96.0/24;Bunny Communications;0.95
-202.51.92.0/24;Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal;0.95
-104.234.250.0/24;Cox Communications Inc.;0.95
-172.84.124.0/22;Hype Enterprises;0.95
-102.210.16.0/22;ORANGE-COTE-IVOIRE;0.95
-82.153.159.0/24;BUNNY TECHNOLOGY LLC;0.95
-82.152.51.0/24;BUNNY TECHNOLOGY LLC;0.95
-38.213.212.0/24;Cogent Communications, LLC;0.95
+45.123.145.0/24;Datacamp Limited;0.95
+151.242.45.0/24;Datacamp Limited;0.95
+130.44.201.0/24;Blazing SEO, LLC;0.95
+82.23.35.0/24;Latitude.sh LTDA;0.95
+147.79.2.0/24;Sprious LLC;0.95
+82.23.38.0/24;Datacamp Limited;0.95
+82.23.40.0/24;Latitude.sh LTDA;0.95
+185.206.220.0/22;Colocation America Corporation;0.95
+203.100.212.0/22;Rachamim Aviel Twito;0.95
+89.208.180.0/22;Colocation America Corporation;0.95
+45.95.220.0/22;Internet Resources Management SRL;0.95
+64.137.58.0/23;Datacamp Limited;0.95
+170.199.224.0/23;Charter Communications Inc;0.95
+166.0.245.0/24;Zenlayer Inc;0.95
 31.6.51.0/24;BUNNY TECHNOLOGY LLC;0.95
-166.0.230.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
-104.222.160.0/24;Psychz Networks;0.95
-96.62.24.0/23;IOVZ NETWORKS INC;0.95
-85.117.230.0/24;Bunny Communications;0.95
-163.5.220.0/24;BUNNY TECHNOLOGY LLC;0.95
-207.182.29.0/24;Charter Communications Inc;0.95
-166.0.153.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
-88.209.203.0/24;Charter Communications Inc;0.95
-142.111.33.0/24;Allstream Business US, LLC;0.95
-141.11.173.0/24;BUNNY TECHNOLOGY LLC;0.95
-82.21.192.0/24;Bunny Communications;0.95
-108.165.215.0/24;Zenlayer Inc;0.95
-188.72.13.0/24;Tarik Al-thuraya Company For Communications Service Ltd.;0.95
-46.236.242.0/24;BUNNY TECHNOLOGY LLC;0.95
-66.92.33.0/24;Sprious LLC;0.95
-136.0.55.0/24;Allstream Business US, LLC;0.95
-136.0.150.0/24;Allstream Business US, LLC;0.95
-119.73.116.0/24;Trans World Enterprise Services Private Limited;0.95
-102.206.185.0/24;Africell-Lintel;0.95
-102.217.104.0/24;BUNNY TECHNOLOGY LLC;0.95
-23.27.66.0/24;Allstream Business US, LLC;0.95
-109.110.168.0/24;Bunny Communications;0.95
-45.11.175.0/24;BUNNY TECHNOLOGY LLC;0.95
-38.3.228.0/22;Horizon Scope Mobile Telecom WLL;0.95
-38.213.75.0/24;OCTOPUS WEB SOLUTION INC;0.95
-142.111.38.0/24;Allstream Business US, LLC;0.95
-181.215.212.0/23;Bunny Communications;0.95
-151.242.46.0/23;Bunny Communications;0.95
-74.82.109.0/24;Bunny Communications;0.95
-185.155.234.0/24;Bunny Communications;0.95
-172.121.190.0/24;BUNNY TECHNOLOGY LLC;0.95
-160.250.254.0/23;DISH MEDIA NETWORK PUBLIC LIMITED;0.95
-217.8.217.0/24;Bunny Communications;0.95
-45.90.19.0/24;BUNNY TECHNOLOGY LLC;0.95
-122.129.68.0/24;FALCON BROADBAND PRIVATE LIMITED;0.95
-168.235.148.0/24;B2 Net Solutions Inc.;0.95
-185.69.4.0/23;Al-Jazeera Al-Arabiya Company for Communication and Internet LTD;0.95
-104.222.164.0/23;Psychz Networks;0.95
-174.136.232.0/22;Bunny Communications;0.95
-96.62.79.0/24;IOVZ NETWORKS INC;0.95
-102.69.105.0/24;LNETLICT;0.95
-96.62.85.0/24;IOVZ NETWORKS INC;0.95
-185.125.243.0/24;IOVZ NETWORKS INC;0.95
-151.246.52.0/23;OCTOPUS WEB SOLUTION INC;0.95
-31.56.49.0/24;Datacamp Limited;0.95
-31.58.165.0/24;Bunny Communications;0.95
-178.92.251.0/24;NTT America, Inc.;0.95
-102.164.103.0/24;Libyana-Mobile-AS;0.95
-136.0.24.0/24;Allstream Business US, LLC;0.95
-178.92.53.0/24;BUNNY TECHNOLOGY LLC;0.95
+119.63.138.0/24;Trans World Enterprise Services Private Limited;0.95
+92.119.63.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
 151.242.48.0/24;Bunny Communications;0.95
-95.134.81.0/24;Arisk Communications inc.;0.95
-77.242.158.0/24;Bunny Communications;0.95
-151.242.62.0/24;Bunny Communications;0.95
-45.10.211.0/24;OCTOPUS WEB SOLUTION INC;0.95
-145.79.165.0/24;BUNNY TECHNOLOGY LLC;0.95
-136.0.163.0/24;Allstream Business US, LLC;0.95
-67.207.173.0/24;Colocation America Corporation;0.95
-31.56.235.0/24;BUNNY TECHNOLOGY LLC;0.95
-45.156.147.0/24;IOVZ NETWORKS INC;0.95
-178.92.235.0/24;NTT America, Inc.;0.95
-111.119.48.0/23;C G Communications Pvt. Ltd;0.95
-82.21.64.0/24;Bunny Communications;0.95
-31.42.124.0/24;Datacamp Limited;0.95
-136.0.27.0/24;Allstream Business US, LLC;0.95
-66.225.253.0/24;Bunny Communications;0.95
-156.231.63.0/24;HGC Global Communications Limited;0.95
-108.165.55.0/24;Zenlayer Inc;0.95
-31.56.223.0/24;BUNNY TECHNOLOGY LLC;0.95
-82.163.10.0/23;Datacamp Limited;0.95
-203.81.238.0/24;Special Communication Organization;0.95
-119.73.112.0/22;Trans World Enterprise Services Private Limited;0.95
-89.213.152.0/24;BUNNY TECHNOLOGY LLC;0.95
-203.128.29.0/24;FIBERISH PVT LTD;0.95
-203.9.210.0/23;C G Communications Pvt. Ltd;0.95
-67.227.40.0/24;Colocation America Corporation;0.95
-204.14.74.0/24;Cox Communications Inc.;0.95
-206.237.80.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
-149.40.65.0/24;IOVZ NETWORKS INC;0.95
-148.135.153.0/24;Bunny Communications;0.95
-108.165.80.0/24;Zenlayer Inc;0.95
-82.21.162.0/24;Bunny Communications;0.95
-108.165.129.0/24;Zenlayer Inc;0.95
-108.165.141.0/24;Zenlayer Inc;0.95
-163.5.158.0/24;Bunny Communications;0.95
-82.23.148.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
-108.165.148.0/24;Zenlayer Inc;0.95
+194.127.108.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
+172.99.20.0/24;Bunny Communications;0.95
+194.127.110.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
+102.217.104.0/24;BUNNY TECHNOLOGY LLC;0.95
 88.216.129.0/24;Cox Communications Inc.;0.95
-195.86.224.0/24;OCTOPUS WEB SOLUTION INC;0.95
-166.88.176.0/24;Allstream Business US, LLC;0.95
-104.222.163.0/24;Psychz Networks;0.95
-195.86.36.0/23;OCTOPUS WEB SOLUTION INC;0.95
-178.95.245.0/24;Arisk Communications inc.;0.95
-38.213.189.0/24;Cogent Communications, LLC;0.95
-188.215.120.0/22;Bunny Communications;0.95
-38.213.218.0/23;Cogent Communications, LLC;0.95
-96.62.30.0/23;IOVZ NETWORKS INC;0.95
-108.165.98.0/23;Zenlayer Inc;0.95
-195.7.10.0/23;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
-83.147.8.0/22;Bunny Communications;0.95
-202.126.110.0/23;Bunny Communications;0.95
-96.62.6.0/23;HK Broadband Network Ltd.;0.95
-166.0.246.0/24;Zenlayer Inc;0.95
-62.72.185.0/24;BUNNY TECHNOLOGY LLC;0.95
-167.148.98.0/24;SkyQuantum Internet Service;0.95
-163.5.72.0/24;Bunny Communications;0.95
+102.165.57.0/24;Bunny Communications;0.95
+45.143.30.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
+45.143.29.0/24;Noor Al-Bedaya for General Trading, agricultural investments, Technical production and dist;0.95
+82.153.215.0/24;BUNNY TECHNOLOGY LLC;0.95
+141.11.173.0/24;BUNNY TECHNOLOGY LLC;0.95
+102.129.82.0/24;CongoTelecom;0.95
+140.99.35.0/24;Bunny Communications;0.95
+108.165.143.0/24;Zenlayer Inc;0.95
+208.76.42.0/24;Bunny Communications;0.95
+185.244.152.0/22;Kurdistan Net Company for Computer and Internet Ltd.;0.95
+147.53.122.0/24;Charter Communications Inc;0.95
+202.51.92.0/24;Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal;0.95
+46.236.242.0/24;BUNNY TECHNOLOGY LLC;0.95
+104.234.250.0/24;Cox Communications Inc.;0.95
+199.89.230.0/24;Rocks Computer Services, LLC;0.95
+138.229.96.0/24;Charter Communications Inc;0.95
+141.98.140.0/22;Vodafone Albania Sh.A.;0.95
+154.6.48.0/22;Atlas Networks Corporation;0.95
+66.92.33.0/24;Sprious LLC;0.95
+66.78.63.0/24;Colocation America Corporation;0.95
+166.0.249.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
+96.62.19.0/24;IOVZ NETWORKS INC;0.95
+142.111.236.0/24;Allstream Business US, LLC;0.95
+142.111.38.0/24;Allstream Business US, LLC;0.95
+168.93.220.0/24;Allstream Business US, LLC;0.95
+203.81.238.0/24;Special Communication Organization;0.95
+130.44.202.0/24;Charter Communications Inc;0.95
+109.110.168.0/24;Bunny Communications;0.95
+82.23.148.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
+66.92.53.0/24;Miya Telecom LLC;0.95
+77.107.105.0/24;BUNNY TECHNOLOGY LLC;0.95
+170.199.228.0/23;Charter Communications Inc;0.95
+108.165.80.0/24;Zenlayer Inc;0.95
+168.93.231.0/24;Allstream Business US, LLC;0.95
+145.79.165.0/24;BUNNY TECHNOLOGY LLC;0.95
+89.213.139.0/24;BUNNY TECHNOLOGY LLC;0.95
+89.213.152.0/24;BUNNY TECHNOLOGY LLC;0.95
+178.93.33.0/24;BUNNY TECHNOLOGY LLC;0.95
+108.165.198.0/24;Zenlayer Inc;0.95
+38.213.212.0/24;Cogent Communications, LLC;0.95
+69.33.118.0/24;Zenlayer Inc;0.95
 38.213.217.0/24;Cogent Communications, LLC;0.95
-141.164.85.0/24;Blazing SEO, LLC;0.95
-178.94.6.0/23;NTT America, Inc.;0.95
-110.44.170.0/24;PT Abhinawa Sumberdaya Asia;0.95
-162.141.99.0/24;NTT America, Inc.;0.95
+104.222.160.0/24;Psychz Networks;0.95
+151.245.162.0/24;Sprious LLC;0.95
+166.88.176.0/24;Allstream Business US, LLC;0.95
+45.156.147.0/24;IOVZ NETWORKS INC;0.95
+147.53.120.0/24;Blazing SEO, LLC;0.95
+67.227.40.0/24;Colocation America Corporation;0.95
+108.165.129.0/24;Zenlayer Inc;0.95
+108.165.137.0/24;Zenlayer Inc;0.95
+82.163.10.0/23;Datacamp Limited;0.95
+136.0.168.0/24;Allstream Business US, LLC;0.95
+82.153.159.0/24;BUNNY TECHNOLOGY LLC;0.95
+82.152.55.0/24;Datacamp Limited;0.95
+136.0.174.0/24;Allstream Business US, LLC;0.95
+23.26.251.0/24;Cox Communications Inc.;0.95
+23.27.66.0/24;Allstream Business US, LLC;0.95
+136.0.71.0/24;Allstream Business US, LLC;0.95
+194.49.87.0/24;Super Cell Network For Internet Services Ltd;0.95
+66.93.56.0/24;Zenlayer Inc;0.95
+212.11.44.0/24;Arisk Communications inc.;0.95
+136.0.27.0/24;Allstream Business US, LLC;0.95
+136.0.140.0/24;Allstream Business US, LLC;0.95
+136.0.143.0/24;Allstream Business US, LLC;0.95
+31.56.210.0/24;BUNNY TECHNOLOGY LLC;0.95
+136.0.24.0/24;Allstream Business US, LLC;0.95
+156.231.133.0/24;HGC Global Communications Limited;0.95
+136.0.156.0/24;Allstream Business US, LLC;0.95
+89.116.150.0/24;Bunny Communications;0.95
+81.168.126.0/24;BUNNY TECHNOLOGY LLC;0.95
+45.86.203.0/24;UK Dedicated Servers Limited;0.95
+136.0.31.0/24;Allstream Business US, LLC;0.95
+207.182.29.0/24;Charter Communications Inc;0.95
+136.0.55.0/24;Allstream Business US, LLC;0.95
+108.165.75.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
+108.165.74.0/24;Cox Communications Inc.;0.95
+151.242.62.0/24;Bunny Communications;0.95
+151.242.60.0/24;Bunny Communications;0.95
+96.62.4.0/24;IOVZ NETWORKS INC;0.95
+166.0.153.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
+163.5.220.0/24;BUNNY TECHNOLOGY LLC;0.95
 46.37.127.0/24;Bunny Communications;0.95
+63.143.116.0/24;Digicel Jamaica;0.95
+104.222.163.0/24;Psychz Networks;0.95
+104.222.164.0/23;Psychz Networks;0.95
+148.135.240.0/23;IOVZ NETWORKS INC;0.95
+38.3.228.0/22;Horizon Scope Mobile Telecom WLL;0.95
+174.136.232.0/22;Bunny Communications;0.95
+172.84.124.0/22;Hype Enterprises;0.95
+38.213.218.0/23;Cogent Communications, LLC;0.95
+151.246.52.0/23;OCTOPUS WEB SOLUTION INC;0.95
+83.171.206.0/23;Super Cell Network For Internet Services Ltd;0.95
+83.147.8.0/22;Bunny Communications;0.95
+102.129.194.0/24;Cox Communications Inc.;0.95
+163.5.158.0/24;Bunny Communications;0.95
+96.62.85.0/24;IOVZ NETWORKS INC;0.95
+84.32.225.0/24;Bunny Communications;0.95
+163.5.165.0/24;Cox Communications Inc.;0.95
+166.0.246.0/24;Zenlayer Inc;0.95
+66.92.37.0/24;Miya Telecom LLC;0.95
+141.11.152.0/23;BUNNY TECHNOLOGY LLC;0.95
+185.125.243.0/24;IOVZ NETWORKS INC;0.95
+142.111.63.0/24;Allstream Business US, LLC;0.95
+178.95.245.0/24;Arisk Communications inc.;0.95
+204.14.74.0/24;Cox Communications Inc.;0.95
+85.117.230.0/24;Bunny Communications;0.95
+102.206.185.0/24;Africell-Lintel;0.95
+151.246.58.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
+82.21.162.0/24;Bunny Communications;0.95
+102.213.132.0/22;NET99;0.95
+31.56.235.0/24;BUNNY TECHNOLOGY LLC;0.95
+45.11.175.0/24;BUNNY TECHNOLOGY LLC;0.95
+38.213.75.0/24;OCTOPUS WEB SOLUTION INC;0.95
+95.135.189.0/24;BUNNY TECHNOLOGY LLC;0.95
+108.165.55.0/24;Zenlayer Inc;0.95
+108.165.91.0/24;Zenlayer Inc;0.95
+151.246.96.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
+45.10.211.0/24;OCTOPUS WEB SOLUTION INC;0.95
+102.129.244.0/24;Charter Communications Inc;0.95
+178.92.235.0/24;NTT America, Inc.;0.95
+108.165.98.0/23;Zenlayer Inc;0.95
+160.250.254.0/23;DISH MEDIA NETWORK PUBLIC LIMITED;0.95
+23.26.113.0/24;Bunny Communications;0.95
+108.165.148.0/24;Zenlayer Inc;0.95
+136.0.150.0/24;Allstream Business US, LLC;0.95
+194.32.120.0/24;UK Dedicated Servers Limited;0.95
+156.231.63.0/24;HGC Global Communications Limited;0.95
+68.166.191.0/24;Bunny Communications;0.95
+185.155.234.0/24;Bunny Communications;0.95
+185.194.8.0/24;Horizon Scope Mobile Telecom WLL;0.95
+31.56.202.0/24;Bunny Communications;0.95
+172.121.190.0/24;BUNNY TECHNOLOGY LLC;0.95
+31.56.212.0/24;BUNNY TECHNOLOGY LLC;0.95
+108.165.141.0/24;Zenlayer Inc;0.95
+155.229.96.0/24;Bunny Communications;0.95
+148.135.153.0/24;Bunny Communications;0.95
+37.202.219.0/24;Bunny Communications;0.95
+103.12.53.0/24;Dream Information Laboratory;0.95
+150.241.162.0/24;IOVZ NETWORKS INC;0.95
+50.114.60.0/24;Zenlayer Inc;0.95
+163.5.77.0/24;Bunny Communications;0.95
+166.0.230.0/24;Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.;0.95
+195.86.232.0/22;OCTOPUS WEB SOLUTION INC;0.95
+151.242.46.0/23;Bunny Communications;0.95
+202.126.110.0/23;Bunny Communications;0.95
+185.69.4.0/23;Al-Jazeera Al-Arabiya Company for Communication and Internet LTD;0.95
+188.215.120.0/22;Bunny Communications;0.95
+31.59.97.0/24;Bunny Communications;0.95
+194.44.90.0/24;Buknet LLC;0.95
+136.0.177.0/24;Allstream Business US, LLC;0.95
+96.62.30.0/23;IOVZ NETWORKS INC;0.95
+163.5.72.0/24;Bunny Communications;0.95
+103.92.145.0/24;Bunny Communications;0.95
+178.94.4.0/24;NTT America, Inc.;0.95
+195.86.30.0/24;OCTOPUS WEB SOLUTION INC;0.95
+96.62.79.0/24;IOVZ NETWORKS INC;0.95
+109.107.60.0/24;Skydigital Telecom Ltd;0.95
+77.242.158.0/24;Bunny Communications;0.95
+108.165.130.0/23;Zenlayer Inc;0.95
+165.49.67.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
+82.152.51.0/24;BUNNY TECHNOLOGY LLC;0.95
+31.42.124.0/24;Datacamp Limited;0.95
+88.209.203.0/24;Charter Communications Inc;0.95
+82.21.192.0/24;Bunny Communications;0.95
+111.119.48.0/23;C G Communications Pvt. Ltd;0.95
+38.213.189.0/24;Cogent Communications, LLC;0.95
+154.81.159.0/24;Liasail Global Hongkong Limited;0.95
+95.135.145.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
 108.165.107.0/24;Zenlayer Inc;0.95
-31.58.129.0/24;Bunny Communications;0.95
+149.40.88.0/24;HK Broadband Network Ltd.;0.95
+43.225.38.0/24;ANYCONNECT INFORMATION TECHNOLOGY CO., LTD;0.95
+178.92.53.0/24;BUNNY TECHNOLOGY LLC;0.95
+82.21.64.0/24;Bunny Communications;0.95
+95.135.211.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
+95.135.169.0/24;Wisdom Cloud Internet Technology Pte. Ltd.;0.95
+46.203.126.0/24;HGC Global Communications Limited;0.95
+38.213.72.0/23;OCTOPUS WEB SOLUTION INC;0.95
 136.0.147.0/24;Allstream Business US, LLC;0.95
 31.56.226.0/24;Bunny Communications;0.95
-66.92.53.0/24;Miya Telecom LLC;0.95
-66.78.63.0/24;Colocation America Corporation;0.95
 149.40.82.0/24;HK Broadband Network Ltd.;0.95
-31.56.210.0/24;BUNNY TECHNOLOGY LLC;0.95
-185.14.236.0/24;Bunny Communications;0.95
-31.56.202.0/24;Bunny Communications;0.95
-68.166.191.0/24;Bunny Communications;0.95
-102.129.81.0/24;CongoTelecom;0.95
-136.0.177.0/24;Allstream Business US, LLC;0.95
-66.93.32.0/24;TOKALA COMMUNICATIONS INC.;0.95
-149.88.217.0/24;SkyQuantum Internet Service;0.95
-23.26.113.0/24;Bunny Communications;0.95
-162.141.45.0/24;NTT America, Inc.;0.95
-185.244.2.0/24;Bunny Communications;0.95
-66.92.37.0/24;Miya Telecom LLC;0.95
+31.56.49.0/24;Datacamp Limited;0.95
